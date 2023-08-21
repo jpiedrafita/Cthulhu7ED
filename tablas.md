@@ -78,4 +78,35 @@
 |**9.** Buena reputación (el mejor conversador de sobremesa del país, el más pío de los hombres, impávido ante el peligro, etc .).|
 |**10.** Ambicioso (alcanzar una meta, convertirse en el jefe, hacerse con todo, etc.)|
 
-# Profesiones
+# Profesiones comunes
+
+|**Profesión**|**Habilidades de ocupación**|**Crédito**|**Puntos**|
+|-------------|----------------------------|-----------|----------|
+|**ABOGADO**  |Buscar Libros, Conrabilidad, Derecho, Psicología, dos habilidades interpersonales (Charlatanería, Encanto, Intimidar o Persuasión) y otras dos habili dades cualesquiera.|30-80|EDUx4|
+|**AGENTE DE POLICÍA**|Armas de fuego, Combatir (Pelea), Derecho, Descubrir, Primeros auxilios, Psicología, una habilidad interpersonal (Charlatanería, Encanto, Intimidar o Persuasión) y una de las sigui entes como espec ialidad personal: Conducir automóvil o Equitación.| 9-30|EDUx2  + DESx2 o FUEx2|
+|**ANTICUARIO** *Lovecraftiana*|Arte/Artesanía (cualquiera), Buscar libros, Descubrir, Historia, Otras lenguas, Tasación , una habilidad interpersonal (Charlatanería, Encanto, Intimidar o Persuasión) y una habilidad cualquiera.|30-70|EDUx4|
+|**ARTISTA**|Arte/Artesanía (cualquiera), Descubrir, Historia o naturaleza, Otras lenguas, Psicología, una habilidad interpersonal (Charlatanería, Encanto, Intimidar o Persuasión) y otras dos habilidades cualesquiera.|9-50|EDUx2 + PODx 2 o DESx2|
+|**ATLETA PROFESIONAL**|Combatir (Pelea), Equitación , Lanzar, Nadar, Saltar, Trepar, una habilidad interpersonal (Charlatanería, Encanto, Intimidar o Persuasión) y una habilidad cualquiera.|9-70|EDUx2 + DESx2 o FUEx2|
+|**BIBLIOTECARIO** *Lovecraftiana*| Buscar libros, Contabilidad, Lengua propia, Otraslenguas y otras cuatro habilidades como especialidades personales o lecturas especializadas.|9-35|EDUx4|
+|**CLÉRIGO**|Buscar libros, Contabilidad , Escuchar, Historia, Otras lenguas, Psicología, una habilidad interpersonal (Charlatanería, Encanto,Imimidar o Persuasión) y una habilidad cualquiera.|9-60|EDUx4|
+|**CRIMINAL**| Descubrir, Psicología, Sigilo, una habilidad interpersonal (Charlatanería, Encanto, Intimidar o Persuasión) y cuatro especialidades de entre las siguientes: Armas de fuego, Cerrajería , Combatir, Disfrazarse, Juego de manos, Mecánica y Tasación.|5-65|EDUx2 + DESx2 o FUEx2|
+|**DILETANTE** *Lovecraftiana*|Armas de fuego, Arte/Artesanía (cualquiera), Equitación, Otras lenguas, una habilidad intererpersonal (Ch arlatanería, Encanto, Intimidar o Pers uasión) y tres habilidades cualesquiera.|50- 99|EDUx2 + APAx2|
+|**ESCRITOR** *Lovecraftiana*|Arte (Literatura), Buscar libros, Hisroria, Lengua propia, Naturaleza o Ciencias ocultas, Otras lenguas, Psicología y una habilidad cualquiera.|9-30|EDUx4|
+|**FANÁTICO**|Historia, Psicología, Sigilo, dos habilidades interpe rsona les (Charlata nería, Encanto, Intimidar o Persuasión) y otras tres habilidades cualesquiera.|0-30|EDUx2 + APAx2 o PODx2|
+|**GRANJERO**|Arte/Artesanía (Agricultura), Conducir automóvil (o camioneta), Conducir maquinaria, Mecánica, Naturaleza, Seguir rastros, una habilidad interpersonal (Charlatanería, Encanto, Intimidar o Persuasión) y una habilidad cualquiera.|9-30|EDUx2 + DESx2 o FUEx2|
+|**INGENIERO**| Arte/Artesanía (Dibujo técnico) , Buscar libros, Ciencia (Ingeniería), Ciencia (Física), Conducir maquinaria, Elecrricidad ,mecánica y una habilid ad cualquiera.|30-60| EDUx4|
+|**INSPECTOR DE POLICÍA**  *Lovecraftiana*|Armas de fuego, Arte/Artesanía (Jnrerpreración) o Disfrazarse, Derecho, Descubrir, Escuchar, Psicología, una habilidad inrerpersonal (Charlatanería, Encanto, Intimidar o Persuasión) y una habilidad cualquiera.|20-50|EDUx2 + DESx2 o FUEx2|
+|**INTÉRPRETE**| Arte/Artesanía (Interpreración), Disfrazarse, Escuchar, Psicología, dos habilidades interpersonales (Charlaranería, Encanto, Intimidar o Persuasión) y otras dos habilidades cualesquiera.|9-70|EDUx2 + APAx2|
+|**INVESTIGADOR PRIVADO**| Arte/Artesanía (Fotografía), Buscar libros, Derecho, Descubrir, Disfrazarse, Psicología , una habilidad interpersonal (Charlaranería, Encanto. lnrimidar o Persuasión) y una habilidad cualquiera (por ejemplo, informática, Cerrajería o Armas de fuego).|9-30|EDUx2 + DESx2 o FUEx2|
+|**MÉDICO** *Lovecraftiana*|Ciencia (Biología), Ciencia (Farmacología),Medicina, Otras lenguas (latín), Primeros auxilios, Psicología y otras dos habilidades como especialidades personales o académicas (por ejemplo, un psiquiatra podría elegir Psicoanálisis).|30-80|EDUx4|
+|**MIEMBRO DE UNA TRIBU**|Ciencias ocultas, Combatir o Lanzar, Descubrir, Escuchar, Naruraleza, Supervivencia (cualquiera) y Trepar.|0-15|EDUx2 + DESx2 o FUEx2|
+|**MISIONERO**| Arte/Artesanía, Medicina, Mecánica, Naturaleza, una habilidad inrerpersonal (Charlatanería, Encanto, Intimidar o Persuasión), dos habilidades cual esquiera.|0-30|EDUx4|
+|**MÚSICO**|Arte/Artesanía (Instrumento), Escuchar, Psicología, una habilidad inrerpersonal (Charlatanería, Encanto, Intimidar o Persuasión) y otras cuatro habilidades cuabquiera.|9-30|EDUx2 + DESx2 o PODx2|
+|**OFICIAL MILITAR**|Armas de fuego, Contabilidad, Orienrarse, Psicología, Supervivencia, dos habilidades interpersonales (Charlatanería, Encanto , Intimidar o Persuasión) y otra habilidad cualquiera.|20-70|EDUx2 + DESx2 o FUEx2|
+|**PARAPSICÓLOGO**| Antropología, Arte/Artesanía (Fotografía), Buscar libros, Ciencias ocultas, Hisroria, Otras lenguas, Psicología y una habilidad cualquiera.| 9-30|EDUx4|
+|**PERIODISTA** *Lovecraftiana*|Arte/Artesanía (Forografía, Buscar libros, Historia, Lengua propia, Psicología, una habilidad inrerpersonal (Charlatanería, Encanto,intimidar o Persuasión) y dos habilidades cualesquiera.|9-30|EDUx4|
+|**PILOTO**|Ciencia (Astronomía), Conducir maquinaria, Electricidad, Mecánica,Orienrarse, Pilotar (aeronave) y otras dos habilidades cualesquiera.|20-70|EDUx2 + DESx2|
+|**PIRATA INFORMÁTICO** *Actual*|Buscar libros, Descubrir, Electricidad, Elecrrónica, Informática, una habilidad inrerpersonal (Charlaranería, Encanto,Intimidar o Persuasión) y dos habilidades cualesquiera.|10-70|EDUx4|
+|**PROFESOR DE UNIVERSIDAD** *Lovecraftiana*|Buscar libros, Lengua propia, otras lenguas, Psicología v otras cuatro habilidades como especialidades personales o académicas.|20-70|EDUx4|
+|**SOLDADO**|Armas de fuego, Combatir, Esquivar, Sigilo, Supervivencia, Trepar o Nadar), dos de las siguienres: Mecánica, Otras lenguas o Primeros auxilios.|9-30|EDUx2 + DESx2 o FUEx2|
+|**VAGABUNDO**| Escuchar, Orienrarse, Saltar, Sigilo, Trepar, una habilidad inrerpersonal (Charlatanria, Encanto, Intimidar o Persuasión) y dos habilidades cualesquiera.|0-5|EDUx2 + APAx2 o DESx2 o FUEx2|
