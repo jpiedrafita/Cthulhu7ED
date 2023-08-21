@@ -1,0 +1,11 @@
+# Archivos temporales y de respaldo de draw.io
+*.drawio.bak
+*.drawio.tmp
+*.drawio.backup
+
+# Archivos temporales generales
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
