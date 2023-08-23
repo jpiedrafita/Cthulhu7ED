@@ -16,3 +16,6 @@ Resumen de reglas para la llamada de Cthulhu 7ª Edición
 
 # Combate
 ![Combate](combate.png)
+
+# Heridas
+![Heridas](heridas.png)
