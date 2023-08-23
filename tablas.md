@@ -110,3 +110,80 @@
 |**PROFESOR DE UNIVERSIDAD** *Lovecraftiana*|Buscar libros, Lengua propia, otras lenguas, Psicología v otras cuatro habilidades como especialidades personales o académicas.|20-70|EDUx4|
 |**SOLDADO**|Armas de fuego, Combatir, Esquivar, Sigilo, Supervivencia, Trepar o Nadar), dos de las siguienres: Mecánica, Otras lenguas o Primeros auxilios.|9-30|EDUx2 + DESx2 o FUEx2|
 |**VAGABUNDO**| Escuchar, Orienrarse, Saltar, Sigilo, Trepar, una habilidad inrerpersonal (Charlatanria, Encanto, Intimidar o Persuasión) y dos habilidades cualesquiera.|0-5|EDUx2 + APAx2 o DESx2 o FUEx2|
+
+# Tabla de dinero y propiedades
+# Tabla del nivel de vida
+# Listado de precios
+# Armaduras de ejemplo
+|||
+|-|-|
+|Chaqueta gruesa de cuero|1|
+|Casco de la primera guerra mundial|2|
+|Madera de 2.5 cm de grosor|3|
+|Chaleco antibalas actual|4|
+|Chaleco grueso de Kevlar|8|
+|Blindaje corporal militar|12|
+|Cristal antibalas de 3.8 cm de grosor|15|
+|Lámina de acero de 2.5 cm de grosor|19|
+|Saco de arena grande|25|
+
+# Tablas de venenos
+# Tablas de vehículos
+# Tabla de colisiones
+
+# Combate
+
+## Diagrama de combate
+```mermaid
+graph TD
+  A[Establece el orden de ataque] --> |Ordena por DES. </br> Armas de fuego preparadas en DES+50| B{"Ataque por sorpresa"}
+  B -- Si --> C[Aplica orden DES]
+  B -- No --> D[Éxito automático o dado de bonificacion]
+  A --> E[Resuelve según DES.</br>1. Iniciar ataque, huir o maniobrar.</br>2. el defensor elige esquivar, conntraatacar o maniobra.</br>3. Atancante y defensor hacen tirada enfrentada.]
+  E --> |Esquivar| F[El atacante gana si tiene mayor grado de éxito.</br>El defensor gana con empate.</br>No hay daño si ambos fallan.]
+  E --> |Contraatacar| G[Gana el mayor grado de éxito.</br>El atacante gana con empate.</br>No hay daño si ambos fallan.]
+  E --> |Maniobra| H[Igual que el contraataque.</br>Se aplica el efecto de la maniobra en lugar de daño.]
+  F --> I[No se fuerzan tiradas de ataque]
+  G --> I
+  H --> I
+  I --> J[Superado</br>Una vez se haya contraatacadoo esquivado ese asalto todos los ataques sufridos reciben un dado de bonificación.</br>No se aplica a los que tienen varios ataques.]
+  J --> K[Éxito extremo</br>No se aplica a defensor contraatacando.</br>Empalar: Daño max. + BD max + Daño arma.</br>Roma: Daño max. + BD max]
+ ```
+
+ ## Modificadores para armas de fuego
+
+
+<table border="1">
+  <tr>
+    <td rowspan="3">Nivel de dificultad</td>
+    <td>Normal: dentro del alcance</td>
+  </tr>
+  <tr>
+    <td>Difícl: hasta el doble del alcance </td>
+  </tr>
+  <tr>
+    <td>Extremo: hasta cuatro veces el alcance</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Dados de bonificación</td>
+    <td>Apuntar 1 asalto</td>
+  </tr>
+  <tr>
+    <td>A bocajarro DES/5x0.3m</td>
+  </tr>
+  <tr>
+    <td>Corpulencia ≥ 4</td>
+  </tr>
+  <tr>
+    <td rowspan="7">Dados de penalización</td>
+    <td>Celda 7-2</td>
+  </tr>
+  <tr><td>Objetivo a cubierto</td></tr>
+  <tr><td>Objetivo rápido MOV 8+</td></tr>
+  <tr><td>Parcialmente oculto (50%+)</td></tr>
+  <tr><td>Objetivo pequeño: Corpulencia -2</td></tr>
+  <tr><td>Cargar una bbala y disparar</td></tr>
+  <tr><td>disparar a un combate cuerpo a cuerpo</td></tr>
+</table>
+
+
