@@ -114,20 +114,6 @@
 # Tabla de dinero y propiedades
 # Tabla del nivel de vida
 # Listado de precios
-# Armaduras de ejemplo
-|||
-|-|-|
-|Chaqueta gruesa de cuero|1|
-|Casco de la primera guerra mundial|2|
-|Madera de 2.5 cm de grosor|3|
-|Chaleco antibalas actual|4|
-|Chaleco grueso de Kevlar|8|
-|Blindaje corporal militar|12|
-|Cristal antibalas de 3.8 cm de grosor|15|
-|Lámina de acero de 2.5 cm de grosor|19|
-|Saco de arena grande|25|
-
-# Tablas de venenos
 # Tablas de vehículos
 # Tabla de colisiones
 
@@ -151,8 +137,6 @@ graph TD
  ```
 
  ## Modificadores para armas de fuego
-
-
 <table border="1">
   <tr>
     <td rowspan="3">Nivel de dificultad</td>
@@ -186,4 +170,47 @@ graph TD
   <tr><td>disparar a un combate cuerpo a cuerpo</td></tr>
 </table>
 
+## Armaduras de ejemplo
+|||
+|-|-|
+|Chaqueta gruesa de cuero|1|
+|Casco de la primera guerra mundial|2|
+|Madera de 2.5 cm de grosor|3|
+|Chaleco antibalas actual|4|
+|Chaleco grueso de Kevlar|8|
+|Blindaje corporal militar|12|
+|Cristal antibalas de 3.8 cm de grosor|15|
+|Lámina de acero de 2.5 cm de grosor|19|
+|Saco de arena grande|25|
+
+
+## Otros tipos de daño
+|**Lesión**|**Daño**|**Ejemplos**|
+|----------|--------|------------|
+|**Menor**: una persona podría sobrevivir a varios sucesos de este nivel de daño.|1D3|Puñetazo, patada, cabezazo, ácido suave, respirar un ambiente lleno de humo(*), pedrada de tamaño de un puño, caida sobre terreno pantanoso (por cada 3m).|
+|**Moderada**: podría causar una herida grave, pueden hacer falta varios de estos ataques para matar a alguien.|1D6|Caida sobre la hierba (por cada 3m), palo, ácido fuerte, respirar agua, exposición al vacío, bala de pequeño calibre, flecha, fuego (antorcha).|
+|**Severa**: es muy probable que cause una herida grave. Si sucede una o dos veces podría dejar a una persona inconsciente o matarla.|1D10|Bala de calibre .38, caída sobre cemento (por cada 3m), hacha, fuego (lanzallamas, correr a través de una habitación en llamas), encontrarse a una distancia de entre 6 y 9 m de una explosión de una granada de mano o un cartucho de dinamita, veneno suave(**). |
+|**Letal**: una persona normal tiene una probabilidad de morir del 50%.|2D10|Arrollado por un coche a 50 Km/h, encontrarse a entre 3 y 6 m de la explosión de una granada de mano o un cartucho de dinamita, veneno fuerte(**).|
+|**Terminal**: Lo más probable es que provoque una muerte instantánea.|4D10|Atropellado por un coche a toda velocidad, ncontrarse a 3 m de la explosión de una granada de mano o un cartucho de dinamita, veneno letal(**).|
+|**Mortal**: muerte segura|8D10|Estar involucrado en una colisión frontal a gran velocidad, ser arrollado por un tren.|
+
+(*) **Asfixia y ahogamiento**: se deberá hacer una tirada de CON cada asalto, una vez se falle una tirada de CON, se sufrirá daño cada asalto posterior hasta que se produzca la muerte o hasta que la víctima sea capaz de respirar. Si el personaje se encuentra en un estado de agotamiento físico, se nesitará un éxito difícil en la tirada de CON.
+
+(**) **Venenos**: un éxito extremo en la tirada de CON reducirá el daño de un veneno a la mitad. Los venenos pueden causar una gran variedad de síntomas adicionales, incluyendo: dolor de estómago, vómitos, diarrea, escalofríos, sudoración, calambres, ictericia, alteración del ritmo cardíaco, visión deficiente, convulsiones, inconsciencia y parálisis. El guardián debe decidir si los síntomas permitirán actuar, a la víctima o no, o si podrá actuar con un dado de penalización o un nivel de dificultad aumentado. A discreción del guardian se puede eliminar los efectos del veneno con un éxito crítico.
+
+## Tablas de venenos
+
+|**Veneno**|**Velocidad**|**Efecto (una dosis)**|**Notas**|
+|----------|-------------|----------------------|---------|
+| Amanita (agárico)|de 6 a 24h|Dolor de estómago intenso, vómitos, ictericia.</br>1D10 daño | Responsable del 95% de las muertes por envenenamiento con setas, sobre todo la cicuta verde. |
+| Arsénico | de 30m a 24h | Dolor ardiente, vómitos, diarrea intensa.</br>4D10 daño | El envenenamiento por arsénico fue difícil de determinar hasta 1836 (de ahí su popularidad como herramienta para el asesinato), cuanto se inventó la prueba de Marsh. |
+| Belladona (atropa belladona) | de 2h a 2d | Taquicardia, visión deficiente, convulsiones. </br>4d10 daño | Una de las plantas más tóxicas del mundo; es probale que el consumo de 10-20 frutos cause la muerte a un adulto. |
+| Cianuro | de 1 a 15m | Mareos, convulsiones, desvanecimiento, muerte. </br>4d10 daño | Muy tóxico: causa la muerte si se ingiere en forma de sales de cianuro o se inhala en forma gaseosa. |
+| Cloroformo | 1 asalto | 1h de inconsciencia. </br> No causa daño. | Ampliamente utilizada como anestésico en los siglos XIX y XX, aunque una dosis alta puede resultar tóxica y provocar la muerte. |
+| Curare | 1 asalo | Parálisis muscular, colapso respiratorio. </br>4d10 daño | Nombre común que recibe el veneno con el que se untan las puntas de las flechas en Sudamérica. Es inocuo si se ingiere; solo provoca parálisis si se aplica diréctamente sobre una herida. |
+| Esricnina | de 10 a 20m | Contracciones musculares violentas, asfixia, muerte. </br> 4d10 daño | Muerte al cabo de unas horas si no se recibe tratamiento médico. |
+| Veneno de cobra | de 15 a 60m | Convulsiones, colapso respiratorio. </br> 4d10 daño | El contacto con los ojos produce irritación inmediata, si no se trata, ceguera. Si hay un antídoto disponible, se puede evitar la mayor parte del daño y la muerte. |
+| Rohypnol | de 15 a 30m | Inconsciencia durante 4 a 8h, posible amnesia. </br>No causa daño. | Inodoro, incoloro y solo disponible en ambientaciones contemporáneas. |
+| Veneno de araña viuda negra (latrotoxina) | de 2 a 8h | Temblores, sudoración, nauseas. </br>1d10 daño | No suele causar la muerte si se aplica un tratamiento médico. |
+| Veneno de serpiente de cascabel | de 6 a 24h | Vómitos, espasmos violentos, visión borrosa. </br> 2d10 daño | El veneno destruye los tejidos causando necrosis, aunque no suele ser fatal (sobre todo si se administra el antídoto antes de 1 o 2h). |
 
