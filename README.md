@@ -19,3 +19,6 @@ Resumen de reglas para la llamada de Cthulhu 7ª Edición
 
 # Heridas
 ![Heridas](heridas.png)
+
+# Persecuciones
+![Persecuciones](persecuciones.png)

@@ -1,4 +1,29 @@
-# Trasfondo de Personajes
+# Índice
+
+- [Personajes](#personajes)
+  - [Trasfondo de personajes](#trasfondo-de-personajes)
+  - [Profesiones comunes](#profesiones-comunes)
+- [combate](#combate)
+  - [Diagrama de combate](#diagrama-de-combate)
+  - [Modificadores para armas de fuego](#modificadores-para-armas-de-fuego)
+  - [Armaduras de ejemplo](#armaduras-de-ejemplo)
+  - [Otros tipos de daño](#otros-tipos-de-daño)
+  - [Tabla de venenos](#tablas-de-venenos)
+- [Vehículos](#vehículos)
+  - [Tablas de referencia de vehículos](#tablas-de-referencia-de-vehículos)
+  - [Colisiones de vehículos](#colisiones-de-vehículos)
+  - [Puntiación de MOV en Km/h](#puntuación-de-mov-en-kmh)
+- [Cordura](#cordura)
+  - [Ejemplos de pérdida de COR](#ejemplos-de-pérdida-de-cor)
+  - [Episodios de locura en tiempo real](#episodios-de-locura-en-tiempo-real-1d10)
+  - [Episodios de locura resumidos](#episodios-de-locura-resumidos-1d10)
+  - [ejemplos de fobias](#ejemplos-de-fobias)
+  - [ejemplos de manías](#ejemplos-de-manías)
+
+
+
+# Personajes
+## Trasfondo de Personajes
 
 |**Ideología/ Creencias**|
 |---|
@@ -78,10 +103,10 @@
 |**9.** Buena reputación (el mejor conversador de sobremesa del país, el más pío de los hombres, impávido ante el peligro, etc .).|
 |**10.** Ambicioso (alcanzar una meta, convertirse en el jefe, hacerse con todo, etc.)|
 
-# Profesiones comunes
+## Profesiones comunes
 
 |**Profesión**|**Habilidades de ocupación**|**Crédito**|**Puntos**|
-|-------------|----------------------------|-----------|----------|
+|-------------|----------------------------|:---------:|:--------:|
 |**ABOGADO**  |Buscar Libros, Conrabilidad, Derecho, Psicología, dos habilidades interpersonales (Charlatanería, Encanto, Intimidar o Persuasión) y otras dos habili dades cualesquiera.|30-80|EDUx4|
 |**AGENTE DE POLICÍA**|Armas de fuego, Combatir (Pelea), Derecho, Descubrir, Primeros auxilios, Psicología, una habilidad interpersonal (Charlatanería, Encanto, Intimidar o Persuasión) y una de las sigui entes como espec ialidad personal: Conducir automóvil o Equitación.| 9-30|EDUx2  + DESx2 o FUEx2|
 |**ANTICUARIO** *Lovecraftiana*|Arte/Artesanía (cualquiera), Buscar libros, Descubrir, Historia, Otras lenguas, Tasación , una habilidad interpersonal (Charlatanería, Encanto, Intimidar o Persuasión) y una habilidad cualquiera.|30-70|EDUx4|
@@ -111,14 +136,7 @@
 |**SOLDADO**|Armas de fuego, Combatir, Esquivar, Sigilo, Supervivencia, Trepar o Nadar), dos de las siguienres: Mecánica, Otras lenguas o Primeros auxilios.|9-30|EDUx2 + DESx2 o FUEx2|
 |**VAGABUNDO**| Escuchar, Orienrarse, Saltar, Sigilo, Trepar, una habilidad inrerpersonal (Charlatanria, Encanto, Intimidar o Persuasión) y dos habilidades cualesquiera.|0-5|EDUx2 + APAx2 o DESx2 o FUEx2|
 
-# Tabla de dinero y propiedades
-# Tabla del nivel de vida
-# Listado de precios
-# Tablas de vehículos
-# Tabla de colisiones
-
 # Combate
-
 ## Diagrama de combate
 ```mermaid
 graph TD
@@ -172,7 +190,7 @@ graph TD
 
 ## Armaduras de ejemplo
 |||
-|-|-|
+|---|:---:|
 |Chaqueta gruesa de cuero|1|
 |Casco de la primera guerra mundial|2|
 |Madera de 2.5 cm de grosor|3|
@@ -186,7 +204,7 @@ graph TD
 
 ## Otros tipos de daño
 |**Lesión**|**Daño**|**Ejemplos**|
-|----------|--------|------------|
+|----------|:------:|------------|
 |**Menor**: una persona podría sobrevivir a varios sucesos de este nivel de daño.|1D3|Puñetazo, patada, cabezazo, ácido suave, respirar un ambiente lleno de humo(*), pedrada de tamaño de un puño, caida sobre terreno pantanoso (por cada 3m).|
 |**Moderada**: podría causar una herida grave, pueden hacer falta varios de estos ataques para matar a alguien.|1D6|Caida sobre la hierba (por cada 3m), palo, ácido fuerte, respirar agua, exposición al vacío, bala de pequeño calibre, flecha, fuego (antorcha).|
 |**Severa**: es muy probable que cause una herida grave. Si sucede una o dos veces podría dejar a una persona inconsciente o matarla.|1D10|Bala de calibre .38, caída sobre cemento (por cada 3m), hacha, fuego (lanzallamas, correr a través de una habitación en llamas), encontrarse a una distancia de entre 6 y 9 m de una explosión de una granada de mano o un cartucho de dinamita, veneno suave(**). |
@@ -214,3 +232,329 @@ graph TD
 | Veneno de araña viuda negra (latrotoxina) | de 2 a 8h | Temblores, sudoración, nauseas. </br>1d10 daño | No suele causar la muerte si se aplica un tratamiento médico. |
 | Veneno de serpiente de cascabel | de 6 a 24h | Vómitos, espasmos violentos, visión borrosa. </br> 2d10 daño | El veneno destruye los tejidos causando necrosis, aunque no suele ser fatal (sobre todo si se administra el antídoto antes de 1 o 2h). |
 
+# Vehículos
+
+## Tablas de referencia de vehículos
+### Vehículos terrestres (conducir automóvil)
+|**Vehículo**|**MOV**|**Corpulencia**|**Armadura de los ocupantes**|**Pasajeros**|
+|---|:---:|:---:|:---:|:---:|
+| Coche económico | 13 | 4 | 1 | 3 o 4 |
+| Coche normal | 14 | 5 | 2 | 4 |
+| Coche de lujo | 15 | 6 | 2 | 4 |
+| Coche deportivo | 16 | 5 | 2 | 1 |
+| Camioneta | 14 | 6 | 2 | 2+ |
+| Camión de 6T | 13 | 7 | 2 | 2+ |
+| Camión de 18 ruedas | 13 | 9 | 2 | 3+ |
+| Motocicleta ligera | 13 | 1 | 0 | 1 |
+| Motocicleta pesada | 16 | 3 | 0 | 1 |
+
+### Vehículos aéreos (pilorar aeronave)
+|**Vehículo**|**MOV**|**Corpulencia**|**Armadura de los ocupantes**|**Pasajeros**|
+|---|:---:|:---:|:---:|:---:|
+| Dirigible | 12 | 2 | 10 | 112+ |
+| Avión de hélices | 15 | 5 | 1 | 4+ |
+| Bombardeo | 17 | 11 | 2 | 10+ |
+| Avión de reacción | 18 | 11 | 3 | 50 |
+| Helicóptero | 15 | 5 | 2 | 5+ |
+
+### Vehículos pesados (conducir maquinaria)
+|**Vehículo**|**MOV**|**Corpulencia**|**Armadura de los ocupantes**|**Pasajeros**|
+|---|:---:|:---:|:---:|:---:|
+| Tanque | 11 | 20 | 24 | 4 |
+| Tren de vapor | 12 | 2 | 1 | 400+ |
+| Tren moderno | 15 | 14 | 2 | 400+ |
+
+### Vehículos de montura (equitación)
+|**Vehículo**|**MOV**|**Corpulencia**|**Armadura de los ocupantes**|**Pasajeros**|
+|---|:---:|:---:|:---:|:---:|
+| Caballo con jinete | 11 | 4 | 0 | 1 |
+| Carruaje de 4 caballos | 10 | 3 | 0 | 6+ |
+| Bicicleta | 10 | 0,5 | 0 | 1 |
+
+### Vehículos marítimos (pilorar embarcación)
+|**Vehículo**|**MOV**|**Corpulencia**|**Armadura de los ocupantes**|**Pasajeros**|
+|---|:---:|:---:|:---:|:---:|
+| Bote de remos | 4 | 2 | 0 | 3 |
+| Aerodeslizador | 12 | 4 | 0 | 22 |
+| Lancha motora | 14 | 3 | 0 | 6 |
+| Crucero | 11 | 32 | 0 | 2.200+ |
+| Barco de guerra | 11 | 65 | 0 | 1.800+ |
+| Portaaviones | 11 | 75 | 0 | 3.200+ |
+| Submarino | 12 | 24 | 0 | 120+ |
+
+## Colisiones de vehículos
+| **Incidente** | **Daño** | **Ejemplos** |
+|---------------|:--------:|--------------|
+| **Incidente menor**: La mayoría de los peligros Normales. Puede que solo sea un daño cosmético o puede que algo más serio. | 1D3 - 1 Corpulencia | Un golpe tangencial con otro vehículo, rozar una farola o un poste, atropellar a una persona o una criatura de tamaño equivalente. |
+| **Incidente moderado**: La mayoría de los peligros Difíciles. Puede causar un daño considerable. Puede destrozar un coche. | 1D6 Corpulencia | Atropellar una vaca o un ciervo grande, colisión con una motocicleta o un coche económico. |
+| **Incidente grave**: La mayoría de los peligro extremos. Es probable que destruya totalmente un coche. | 1D10 Corpulencia | Colisión con un coche normal, una farola o un árbol. |
+| **Desastre**: Es probable que destruya totalmente un camión. Seguro que destruye un coche. | 2D10 Corpulencia | Colisión con un camión, un autocar o un árbol adulto. |
+| **Muerte en carretera**: Solo quedarán unos restos desperdigados de la mayoría de los vehículos. | 5D10 Corpulencia | Colisión con un trailer o un tren, el imacto de un meteorito. |
+
+## Puntuación de MOV en km/h
+||||||||||
+|:-------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **MOV**  | 5   | 6 | 7 | 8  | 9 |  10 | 11 | 12 |
+| **Km/h** | 4,5 | 6 | 9 | 12 | 18 | 27 | 40 | 60 |
+| **MOV**  | 13   | 14 | 15 | 16  | 17 |  18 | 19 | 20 |
+| **Km/h** | 90 | 135 | 210 | 300 | 450 | 675 | 1.000 | 1.500 |
+
+# Cordura
+
+## Ejemplos de pérdida de COR
+
+|||
+|:-:|:---|
+| 0/1D2 | Sorprendido al encontrar los restos mutilados de un animal. |
+| 0/1D3 | Sorprendido al encontrar un cadaver o un miembro ampuado. |
+| 0/1D4 | Ver manar una corriente de sangre. |
+| 1/1D4+1 | Encontrar un cadaver humano horriblemente mutilado. |
+| 0/1D6 | Despertar atrapado en el interior de un ataud. |
+| 0/1D6 | Presenciar la muerte violenta de un amigo. |
+| 0/1D6 | Ver un gul. |
+| 1/1D6+1 | Encontrarse con alguien al que se sabe muerto. |
+| 0/1D10 | Ser sometido a grandes torturas. |
+| 1/1D10 | Ver un cadáver alzarse de su tumba. |
+| 2/2D10+1 | Ver caer del cielo una cabeza gigante seccionada. |
+| 1D10/1D100 | Ver al gran Cthulhu. |
+
+## Episodios de locura en tiempo real (1D10)
+|  |
+|--|
+|**1. Amnesia**: El investigador no recuerda acontecimientos que han tenido lugar desde la última cvez que se encontró a salvo. Por ejemplo: le parecerña que un momento estaban tomando el desayuno y al siguente se están enfrentando a un monstruo. Duración 1D10 asaltos.|
+|**2. Discapacidad psicosomática**: El investigador padece ceguera psicosomática, sordera o parálisis de una o varias extremidades durante 1D10 asaltos.|
+|**3. Violencia**: Una niebla roja engulle al investigador, que estalla en una oleada de violencia y destrucción indiscriminadas durante 1D10 asaltos.|
+|**4. Paranoia**: El investigador padece una paranoia grave durante 1D10 asaltos; todos quieren atraparlos; no se puede confiar en nadie; los están espiando; alguien los ha traicionado; lo que están viendo es un engaño.|
+|**5. Allegado**: Revisa las anotaciones de allegados en el trasfondo de personaje. El investigador condunte a otra persona que se encuentra en la escena con su allegado. Considera la naturaleza de de la relación; el investigador actúa en consecuencia. 1D10 asaltos.|
+|**6. Desmayo**: El investigador se desmaya. Se recupera en 1D10 asaltos.|
+|**7. Huir presa del pánico**: El investigador no puede evitar huir tan lejos como sea posible por cualquier medio que haya a su disposición, aunque eso signifique llevarse el único vehículo y dejar a todo el mundo atrás. Huirá durante 1D10 asaltos.|
+|**8. Histeria físca o estallido emocional**: El investigador queda incapacitado por la risa, el llanto, chillidos, etc. durande 1D10 asaltos.|
+|**9. Fobia**: el investigador adquiere una nueva fobia. Tira 1D100 en la tabla [ejemplos de fobias](#ejemplos-de-fobias) o el guardián elije una. Incluso aunque el origen de la fobia no se encuentre presente, el inevestigador si que lo imaginará durante los próximos 1D10 asaltos.|
+|**10. Manía**: El investigador adquiere una nueva manía. tira 1D100 en la tabla [Ejemplos de manías](#ejemplos-de-manías) o el guardián elije una. El inveestigador intenta satisfacer su nueva manía durante los próximos 1D10 asaltos.|
+
+## Episodios de locura resumidos (1D10)
+|  |
+|--|
+|**1. Amnesia**: El investigador recupera el sentido en un lugar extraño sin recordar quien es. Sus recuerdos regresarán lentamenete con el tiempo.|
+|**2. Atraco**: El investigador recupera el sentido 1D10 horas más tarde, víctima de un robo. No habrá sufrido daño. Si lleva consigo una posesión preciada (trasfondo), haz una tirada de SUE para ver si se la han robado. Cualquier otro objeto de valor habrá desaparecido automáticamente.|
+|**3. Paliza**: El investigador recupera el sentido 1D10 horas más tarde con el cuerpo magulaldo y maltrecho. Sus puntos de vida habrán quedado reducidos a la mitad de los que tuviera antes de enloquecer, aunque eso no le cvausará una herida grave. No le habrán robado. El guardián decide la forma en la que ha recibido las heridas|
+|**4. Violencia**: El investigador estalla en una ola de violencia y destrucción. Cuando el investigador recupera el sentido, puede que no recuerde sus actos o que no sean evidentes. El guardián debe determinar qué o quién ha sido víctima de los actos violentos del investigador, y si lo ha matado o solo lo ha herido.|
+|**5. Ideología/Creencias**: Revisa las anotaciones sobre ideología/creencias en el trasfondo del personaje. El investigador manifiesta una de ellas de forma extrema, demente y ostensible. Por ejemplo: puede que se encuentre a una persona religiosa un tiempo después, predicando el evangelio a gritos en el metro.|
+|**6. Allegados**: Consulta las anotaciones sobre allegados en el trasfondo del investigador y los motivos por los que esa relación es tan importante. Durante este periodo de tiempo de 1D10 horas, el investigador ha hecho todo cuanto estaba en su manod para acercarse a esa persona y actuar en base a esa relación.|
+|**7. Ingresado**: El investigador recupera el sentido en un pabellón pisquiátrico o en una celda policial. Puede que vaya recordando lentamente los sucesos que le llevaron ahí.|
+|**8. Huir presa del pánico**: Cuando el investigador recupera el sentido se encuentra muy lejos, tal vez perdido en la espesura, en un tren o en un autobús de largo recorrido.|
+|**9. Fobia**: El investigador adquiere una nueva fobia. Tira 1D100 en la tabla de [ejemplos de fobias](#ejemplos-de-fobias) o el guardián puede elegir una. El investigador recupera el sentido 1D10 horas después, tras haber tomado todas las precauciones posibles para evitar su nueva fobia.|
+|**10. Manía**: El investigador adquiere una nueva manía. Tira 1D100 en la tabla de [ejemplos de manías](#ejemplos-de-manías) o el guardián elije una. El investigador recupera el sentido 1D10 horas después. Durante este episodio de locura, el investigador se habrá dedicado a satisfacer su nueva manía. Del guardián y el jugador depende so esto resulta evidente para otras personas.
+
+## Ejemplos de fobias
+||
+|-|
+|**1. Ablutofobia**: Miedo a limpiarse o bañarse.|
+|**2. Acrofobia**: Miedo a las alturas.|
+|**3. Aerofobia**: Miedo a volar.|
+|**4. Agorafobia**: Miedo a los espacios públicos abiertos (atestados).|
+|**5. Alektorofobia**: Miedo a las gallinas.|
+|**6. Aliumfobia**: Miedo al ajo.|
+|**7 Amaxofobia**: Miedo a conducir o montar en vehículos.|
+|**8. Ancraofobia**: Miedo al viento.|
+|**9. Androfobia**: Miedo a los hombres.|
+|**10. Anglofobia**: Miedo a Inglaterra, a la cultura británica, etc.|
+|**11. Antofobia**: Miedo a las flores.|
+|**12.Apotemnofobia**: Miedo a las personas que tienen miembros amputados.|
+|**13. Arachnofobia**: Miedo a las arañas.|
+|**14. Astrafobia**: Miedo a los relámpagos.|
+|**15. Atefobi~**: Miedo a las ruinas o reliquias.|
+|**16. Aulofobia**: Miedo a las flautas.|
+|**17. Bacteriofobia**: Miedo a las bacterias.|
+|**18. Balistofobia**: Miedo los proyectiles o las balas.|
+|**19. Basofobia**: Miedo a caerse.|
+|**20. Bibliofobia**: Miedo a Jos libros.|
+|**21. Botanofobia**: Miedo a las plantas.|
+|**22. Caliginefobia**: Miedo a las mujeres hermosas.|
+|**23. Catsaridafobia**: Miedo a las cucarachas.|
+|**24· Ceraunofobia**: Miedo a los truenos.|
+|**25. Cheimafobia**: Miedo al frío.|
+|**26. Cinofobia**: Miedo a los perros.|
+|**27. Claustrofobia**: Miedo a los espacios cerrados.|
+|**28. Coulrofobia**: Miedo a los payasos.|
+|**29. Cronomentrofobia**: Miedo a los relojes.|
+|**30. Demofobia**: Miedo a las multitudes.|
+|**31. Demonofobia**: Miedo a los espíritus y los demonios.|
+|**32. Dentofobia**: Miedo a los dentistas.|
+|**33. Disposofobia**: Miedo a tirar cosas síndndrome del acaparador compulsibo.|
+|**34. Dorafobia**: Miedo a las pieles.|
+|**35. Dromofobia**: Miedo a cruzar la calle.|
+|**36. Eclesiofobia**: Miedo a la iglesia.|
+|**37. Eisoptrofobia**: Miedo a los espejos.|
+|**38. Enetofobia**: Miedo a las agujas o los alfileres.|
+|**39. Entomofobia**: Miedo a los insectos.|
+|**40. Escotofobia**: Miedo a la oscuridad o a la noche.|
+|**41. Estenofobia**: Miedo a las cosas o lugares estrechos.|
+|**42. Fagofobia**: Miedo a tragar, comer o ser comido.|
+|**43. Farmacofobia**: Miedo a los medicamentos.|
+|**44· Fasmofobia**: Miedo a los fantasmas.|
+|**45. Felinofobia**: Miedo a los gatos.|
+|**46. Fenogofobia**: Miedo a la luz del día.|
+|**47. Gefirofobia**: Miedo a cruzar los puentes.|
+|**48. Gerontofobia**: Miedo a los ancianos o a envejecer.|
+|**49. Ginofobia**: Miedo a las mujeres.|
+|**50. Hafefobia**: Miedo a ser tocado.|
+|**51. Hamartofobia**: Miedo a pecar.|
+|**52. Hematofobia**: Miedo a la sangre.|
+|**53. Herpetofobia**: Miedo a los reptiles.|
+|**54· Hidrofobia**: Miedo al agua.|
+|**55. Hipnofobia**: Miedo a dormir o a ser hipnotizado.|
+|**56. Homiclofobia**: Miedo a la niebla.|
+|**57. Hoplofobia**: Miedo a las armas de fuego.|
+|**58. Iatrofobia**: Miedo a Jos médicos.|
+|**59. Ictiofobia**: Miedo a los peces.|
+|**60. Lacanofobia**: Miedo a los vegetales.|
+|**61. Ligirofobia**: Miedo a los ruidos fuertes.|
+|**62. Limnofobia**: Miedo a los lagos.|
+|**63. Mecanofobia**: Miedo a las máquinas o a los mecanismos.|
+|**64. Megalofobia**: Miedo a los objetos grandes.|
+|**65. Merintofobia**: Miedo a ser atado o amarrado.|
+|**66. Meteomfobia**: Miedo a los meteoros y meteoritos.|
+|**67. Misofobia**: Miedo a la suciedad o la contaminación.|
+|**68. Mixofobia**: Miedo a mezclarse con alguien diferente.|
+|**69. Monofobia**: Miedo a estar solo.|
+|**70. Necrofobia**: Miedo a la muerte y a las cosas muertas.|
+|**71. Octofobia**: Miedo al número 8.|
+|**72. Odontofobia**: Miedo a los dientes.|
+|**73. Ofidiofobia**: Miedo a las serpientes.|
+|**74. Oneirofobia**: Miedo a los sueños.|
+|**75. Onomatofobia**: Miedo a escuchar determinada palabra o palabras.|
+|**76. Ornitofobia**: Miedo a los pájaros.|
+|**77. Parasitofobia**: Miedo a los parásitos.|
+|**78. Pediofobia**: Miedo a las muñecas.|
+|**79. Pirofobia**: Miedo al fuego.|
+|**80. Pogonofobia**: Miedo a las barbas.|
+|**81. Potamofobia**: Miedo a los ríos.|
+|**82. Potofobia**: Miedo al alcohol o a las bebidas alcohólicas.|
+|**83. Rabdofobia**: Miedo a ser severamente castigado.|
+|**84. Selenofobia**: Miedo a la luna.|
+|**85. Siderodromofobia**: Miedo viajar en tren.|
+|**86. Siderofobia**: Miedo a las estrellas.|
+|**87. Simetrofobia**: Miedo a la simetría.|
+|**88. Talasofobia**: Miedo al mar.|
+|**89. Tapefobia**: Miedo a los cementerios o a ser· enterrado vivo.|
+|**90. Taurofobia**: Miedo a los toros.|
+|**9l. Telefonofobia**: Miedo a los teléfonos.|
+|**92. Teratofobia**: Miedo a los monstruos.|
+|**93. Tomofobia**: Miedo a las operaciones qurúrjicas.|
+|**94.Triscadecafobia**: Miedo al número 13.|
+|**95. Vestifobia**: Miedo a la ropa.|
+|**96. Wiccafobia**: Miedo a las brujas y a la brujería.|
+|**97. Xantofobia**: Miedo al color amarillo o a la palabra amarillo.|
+|**98. Xenofobia**: Miedo a los extraños o a los extranjeros.|
+|**99. Xenoglosofobia**: Miedo a las lenguas extranjeras.|
+|**lOO. Zoofobia**: Miedo a los animales.|
+
+## Ejemplos de manías
+
+||
+|-|
+|**1. Ablutomarúa**: Interés excesivo en la limpieza personal.|
+|**2. Aboulomanía**: Indecisión patológica.|
+|**3. Acluomanía**: Gusto excesivo por la oscuridad .|
+|**4. Acromanía (altura)**: Obsesión por los lugares altos.|
+|**5. Agatomanía**: Amabilidad patológica.|
+|**6. Agromanía**: Deseo intenso de estar en espacios abiertos.|
+|**7. Aicmomanía**: Obsesión por los objetos puntiagudos o afilados.|
+|**8. Ailuromanía**: Gusto excesivo por los gatos.|
+|**9. Algomanía**: Obsesión por el dolor.|
+|**10. Aliomanía**: Obsesión por el ajo.|
+|**11. Amaxomanía**: Obsesión por los vehículos.|
+|**12. Amenomanía**: Alegría irracional.|
+|**13. Antomanía**: Obsesión por las flores.|
+|**14. Aritmomanía**: Preocupación obsesiva por los números.|
+|**15. Asoticamanía**: Gasto o despilfaro impulsivo y autodestructivo.|
+|**16. Automanía**: Gusto excesivo por la soledad.|
+|**17. Balletomanía**: Entusiasmo anormal por el ballet.|
+|**18. Bibliocleptomania**: Robo compulsivo de libros.|
+|**19. Bibliomarúa**: Obsesión por los libros y/o leer.|
+|**20. Bruxomanía**: Compulsión por rechinar los dientes.|
+|**21. Cacodemomania**: Creencia patológica de estar poseído por un espíritu maligno.|
+|**22. Calomanía**: Obsesión por la propia belleza.|
+|**23. Cartacoethes**: Compulsión incontrolable de ver mapas por tndas partes.|
+|**24· Catapedamanía**: Obsesión por saltar desde lugares elelvados.|
+|**25. Ceirnatomanía**: Deseo anormal por el frío y/o las cosas frías.|
+|**26. Clazomanía**: Compulsión irracional por gritar.|
+|**27. Cleptomanía**: Compulsión irracional por robar.|
+|**28. Clinomanía**: Gusto excesivo por estar en en la cama.|
+|**29. Coimetromanía**: Obsesión por los cementerios.|
+|**30. Coloromanía**: Obsesión por un color determinado.|
+|**31. Coreomanía**: Obsesión o frenesí incontrolable por bailar.|
+|**32. Coulromanía**: Obsesión por los payasos.|
+|**33. Counternanía**: Compulsión por experimentar situaciones aterradoras.|
+|**34. Dacnornanía**: Obsesión por maratar.|
+|**35. Demonomanía**: Creencia patológica de estar poseído por demonios.|
+|**36. Dermatilomanía**: Compulsión por arrancarse la piel.|
+|**37. Dikemanía**: Obsesión por ver que se hace justicia.|
+|**38. Dipsomanía**: Ansia anormal por consumir alcohol.|
+|**39. Doramanía**: Obsesión por poseer pieles.|
+|**40. Doromanía**: Obsesión por hacer regalos.|
+|**41. Drapetornanía**: Compulsión por· fugarse.|
+|**42. Ecdemiornanía**: Compulsión por vagabundear.|
+|**43. Egomanía**: Actitud ególatra irracional u obsesión por uno mismo.|
+|**44. Empleomanía**: Ansia irracional por ocupar cargos públicos.|
+|**45. Enosimanía**: Creencia patológica de haber pecado.|
+|**46. Epistemomanía**: Obsesión por adquirir conocimientos.|
+|**47. Eremiomanía**: Compulsión por penrmanccer inmóvil.|
+|**48. Eteromanía**: Ansia de éter.|
+|**49. Fasmomanía**: Obsesión por los fantasmas.|
+|**50. Fonomanía**: Tendencia patológica al asesinato.|
+|**51. Fotomanía**: Deseo patológico de luz.|
+|**52. Garabatornanía**: Obsesión por garabatear o pintarrajear.|
+|**53. Garnomanía**: Obsesión por hacer propuestas de matrimonio extrañas.|
+|**54. Geliomanía**: Compulsión incontrolable por reír.|
+|**55. Gimnomanía**: Compulsión por desnudarse.|
+|**56. Goetornanía**: Obsesión por las brujas y la brujería.|
+|**57. Grafomania**: Obsesión por escribirlo todo.|
+|**58. Habromanía**: Tendencia anormal a crear de lirios placenteros (en sus titución de la rea lidad).|
+|**59. Helmintomanía**: Gusto excesivo por los gusanos.|
+|**60. Hiclromanía**: Ansia irracional por beber agua.|
+|**61. Hoplomanía**: Obsesión por las armas de fuego.|
+|**62. Iconomanía**: Obsesión por los iconos o los retratos.|
+|**63. Ictiomanía**: Obsesión por los peces.|
+|**64. Idolomanía**: Obsesión o devoción a un ídolo.|
+|**65. Infornanía**: Devoción excesiva por la acumulación de datos.|
+|**66. Ligiromanía**: Compulsión incontrolable por hacer ruidos intensos o estridentes.|
+|**67. Linonomanía**: Obsesión por las cuerdas.|
+|**68. Lipomanía**: Tendencia anormal hacia la melancolía.|
+|**69. Loteromanía**: Deseo excesvo de participar en sorteos.|
+|**70. Megalitomanía**: Tendencia anormal a tener ideas extrañas en presencia de menhires o círculos de piedras.|
+|**71. Melomanía**: Obsesión por la música o por una melodía determinada .|
+|**72. Metromanía**: Deseo insaciable de escribir en verso.|
+|**73. Misomanía**: Odio a todo, obsesión por odiar a un sujeto o grupo.|
+|**74· Mitomanía**: Mentir o exagerar hasta un punto anormal.|
+|**75. Monomanía**: Obsesión anorm al por un único pensamiento o idea.|
+|**76. Nosomanía**: Deliri o de padecer una enfermedad imaginaria.|
+|**77. Notomanía**: Compulsión por registrarlo todo (por ejemplo. fotografiarlo).|
+|**78. Onomamanía**: Obsesión por los nombres (de personas, lugares o cosas).|
+|**79. Onomatomanía**: Dese o irrefrenable de repetir determinadas palabras.|
+|**80. Onicotilomanía**: Compulsión por morderse o arrancarse las uñas.|
+|**81. Opsomanía**: Amor anormal por cierto tipo de comida.|
+|**82. Paramanía**: Placer anrmal por quejarse .|
+|**83. Personamanía**: Compulsión por llevar máscaras.|
+|**84· Piromanía**: Compulsión por encender fuegos.|
+|**85. Planomanía**: Deseo a normal desobedecer las normas sociales.|
+|**86. Plutomanía**: Deseo obsesivo de dinero.|
+|**87. Preguntamanía**: Necesidad compulsiva de hacer preguntas.|
+|**88. Pseudomanía**: Compulsión irracional por mentir.|
+|**89. Rinotilexomanía**: Compulsión por hurgarse la nariz.|
+|**90. Sideroclromomanía**: Fascinación intensa por los trenes o el viaje en ferrocarril.|
+|**91. Sofomanía**: Delirio de que uno es increíblemente inteligente.|
+|**92. Tanatomanía**: Obsesión por la muerte o el suicidio.|
+|**93. Tecnomanía**: Obsesión por las nuvas tecnologías.|
+|**94. Teomanía**: La creencia de ser un dios.|
+|**95. Tiflomanía**: Ceguera patológica.|
+|**96. Titilomanía**: Compulsión por rascarse.|
+|**97. Tomomanía**: Gusto irracional por practicar la cirugía.|
+|**98. Tricotilomanía**: Ansia por tirarse del pelo.|
+|**99. Xenomanía**: Obs es ión por lo ex tranjero.|
+|**100. Zoomanía**: Amor insano hacia los animales.|
+
+# Tabla de dinero y propiedades
+# Tabla del nivel de vida
+# Listado de precios

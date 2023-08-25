@@ -1,5 +1,5 @@
 # Archivos temporales y de respaldo de draw.io
-*.drawio.bak
+*.drawio.bkp
 *.drawio.tmp
 *.drawio.backup
 
@@ -7,5 +7,6 @@
 *.tmp
 *.bak
 *.swp
+*.bkp
 *~
 .DS_Store
