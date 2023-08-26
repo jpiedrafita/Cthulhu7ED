@@ -3,6 +3,17 @@ Resumen de reglas para la llamada de Cthulhu 7ª Edición
 
 ![Resumen](ResumenA3.png)
 
+# Indice
+
+- [Sistema general](#sistema-general)
+- [Creación de personajes](#creación-de-personajes)
+- [Fase de desarrollo de personajes](#fase-de-desarrollo-del-personaje)
+- [Combate](#combate)
+- [Heridas y recuperación](#heridas-y-recuperación)
+- [Persecuciones](#persecuciones)
+- [Locura](#locura)
+- [Magia](#magia-y-hechizos)
+- [Estudio de libros](#estudio-de-libros)
 # Sistema general
 
 ![Sistema](sistema.png)
@@ -17,8 +28,15 @@ Resumen de reglas para la llamada de Cthulhu 7ª Edición
 # Combate
 ![Combate](combate.png)
 
-# Heridas
+# Heridas y recuperación
 ![Heridas](heridas.png)
 
 # Persecuciones
 ![Persecuciones](persecuciones.png)
+
+# Locura
+! [Cordura](cordura.png)
+
+# Magia y hechizos
+
+# Estudio de libros
