@@ -20,7 +20,8 @@
   - [ejemplos de fobias](#ejemplos-de-fobias)
   - [ejemplos de manías](#ejemplos-de-manías)
 - [Magia](#magia)
-  - [Tomos de los mitos](#tomos-de-los-mitos)
+  - [Tomos de los mitos principales](#tomos-de-los-mitos-principales)
+  - [Tabla de tomos resumida](#tabla-de-tomos-resumida)
 
 
 
@@ -559,12 +560,145 @@ graph TD
 |**100. Zoomanía**: Amor insano hacia los animales.|
 
 # Magia
-## Tomos de los mitos
+## Tomos de los mitos principales
 | **Tomo/Autor** | **Descripción** | **MCI/MCC** | **MC** | **COR** | **Estudio** | **Hechizos** |
 |---|---|:-:|:-:|:-:|---|---|
-| **Confesiones de Clithaunus, el Monje Loco**</br>*En latín, escrito por Clithanus, 400 (1674)* | Una reinterpretación del material que Clithanus extrajo de su lectura del Necronomicón. Contiene un extenso tratado sobre símbolos protectores y la semilla de Cthulhu. Se conservan varias copias en el Museo Field de Chicago,el Museo Británico y el Seminario de la Unión Teológica de Manhattan. | +3%/+6% | 27% | 2D6 | 29 semanas | Contactar con las blasfemias de los
-océanos (Contactar con una semilla estelar de Cthulhu),
-Protección, Signo del maestro (Símbolo arcano).|
+| **Azathoth y otris**</br>*En inglés, Edward Derby, 1919*|  Antología de las obras más tempranas del poeta natural de Arkham. Publicada en Boston en formato de edición de bolsillo, 9 x 13 cm y encuadernada en cuero negro. Se imprimieron y vendieron unos 1.400 ejemplares.| +1%/+3% | 12% | 1D4 | 1 semana | Ninguno |
+| **Confesiones de Clithaunus, el Monje Loco**</br>*En latín, escrito por Clithanus, 400 (1674)* | Una reinterpretación del material que Clithanus extrajo de su lectura del Necronomicón. Contiene un extenso tratado sobre símbolos protectores y la semilla de Cthulhu. Se conservan varias copias en el Museo Field de Chicago,el Museo Británico y el Seminario de la Unión Teológica de Manhattan. | +3%/+6% | 27% | 2D6 | 29 semanas | Contactar con las blasfemias de los océanos (Contactar con una semilla estelar de Cthulhu), Protección, Signo del maestro (Símbolo arcano).|
+| **Cthaat Aquadingen (versión 1)**</br>*En latín, autor desconocido, siglo XI-XII d. C. aprox.* | Un estudio exhaustivo de los profundos. Existen tres ejemplares de la versión latina, todos ellos encuadernados en piel humana que, según se dice, rompe a sudar cuando la humedad disminuye demasiado. Se supone que uno de ellos se encuentra en el Museo Británico, aunque el museo lo niega, y que los otros dos son propiedad de coleccionistas británicos. | +4%/+9% | 39% | 2D8 | 46 semanas | Canto fúnebre de Nyhargo (este hechizo es una inversión del hech izo Resurrección, y se utiliza para destruir a los resucitados), Hablar con los hijos del mar (Contactar con un profundo), Hablar con el Padre Oagón, Hablar con la Madre Hidra (Contactar con Oagón/Hidra), Hablar con la progenie del dios (Contactar con una semilla estelar de Cthulhu), Sueños del Ahogador (Contactar con un dios/Yibb- Tstll), Sueños del dios (Contactar con un dios/ Cthulhu), Sueños de Zattoqua (Contactar con un dios/ Tsathoggua). |
+| **Cthaat Aquadingen (versión 2)**</br>*En inglés medieval, autor y traductor desconocidos, siglo XIV d.C. aprox** |Un estudio exhaustivo de los profundos, pero se trata de una traducción incompleta y llena de errores. Solo se conserva un manuscrito en cuadernado en el Museo Británico.|+2%/+4%|18%|2D4| 29 semanas| Hablar con los hijos del mar (Contactar con un profundo), Hablar con el Padre Dagón, Hablar con la Madre Hidra, Hablar con la progenie del dios (Contactar con una semilla estelar de Cthulhu), Sueños del dios (Contactar con un dios/Cthulhu).|
+| **Cthulhu en el Necronomicón**</br>*En inglés , por el profesor Dr. Laban Shrewsbury, 1915 (publicado en 1938)*| Anotaciones manuscritas para el proyecto de un libro. Solo se conoce un ejemplar que fue depositado en la Biblioteca de la Universidad Miskatonic poco antes de que el autor desapareciera de forma misteriosa. Habla del poder de Cthulhu para afectar a los sueños de los hombres, y advierte acerca de una secta global dedicada a preparar el regreso de la criatura.|+2%/+4%|18%|1D6|14 semanas|Contactar con un dios/Cthulhu, Contactar con un profundo, Símbolo arcano.|
+| **Cultes des Goules**</br>*En francés, por Framçois-Honore Balfour; Conde d'Erlette, ¿1 702?* | Publicado en 1703 en Francia (¿París?), en una edición de tamaño cuartilla. La iglesia lo denunció de inmediato. Cataloga i formación acerca de una gran secta que practica la nigromancia, la necrofagia y la necrofilia en Francia. Se sabe de la existencia de catorce ejemplares, habiéndose encontrado el más reciente en 1906.|+4%/+8%|36%|1D10|22 semanas|Atadura negra, Contactar con un gul, Consunción, Convocar/Atar a un retoño oscuro, Llamar/Expulsar a Nyogtha, Llamar/Expulsar a Shub-Niggurath, Resurrección, Signo de Voorish (signo de conjuración).|
+| **Cultos inconfesables - Unaussprechlichen Kulten (versión 1)**</br>*En alemán, por Friedrich Wilhelm von funzt, 1839*|Denominado correctamente Das Buch von den unaussprechlichen Kulten. Tamaño cuartilla, posiblemente impreso en Hamburgo. Este volumen, largo tiempo conocido como El libro negro, narra los contactos de von Junzt con varias sectas y sociedades secretas. Se rumorea que existen otras ediciones. Se sabe que se conservan seis ejemplares en las bibliotecas más importantes de Europa y América. La edición original ostenta los espantosos grabados de Gunther Hasse.| +5%/+10% | 45% |2D8 | 52 semanas| Acercarse a un herman o (Contactar con un gul) , Atraer la atención de aquel que es grande (Contactar con Padre Dagón), Contactar con los hijos de las profundidades (Contactar con un profundo), Crear barrera de Naach-Tith, In vocar a aquel que no debería existir (Llamar/Expulsar a Nyogtha), Invocar a Cyaegha (Llamar/ Expulsar a Cyaegha), Invocar a la diosa del bosque (Llamar/Expulsar a Shub-Niggurath), Invocar al Hombre Astado (Contactar con Nyarlathotep), Invocar al Sol (Llamar/Expulsar a Azathoth), Llamar a un diablo del éter (Contactar con un mi-go), Revivificar (Resurrección), Subyugar a los árbo les (Convocar/Atar a un retoño oscuro), Subyugar al Desconocido (Llamar/Expulsar a Ghatanothoa), Subyugar a los espíritus del aire (Convocar/Atar a un byakhee).|
+|**Cultos inconfesables (versión 2)**</br>*En inglés, traductor desconocido, publicado en 1845*|Una traducción no autorizada publicada por Bridewell en In glaterra (probablemente Londres) en formato de octavilla. Se conservan al menos veinte ejemplares e n varias coleccion es. Texto con muchos errores.|+4%/+8%|36%|2D8|48 semanas|Como en Unaussprechlichen Kulten , pero muchos de estos hechizos son versiones incompletas o defectuosas.|
+|**Cultos inconfesables (versión 3)**</br>*En inglés, traductor desconocido, publicado en 1909*| Una versión expurgada del texto de Bridewell, publicada por Golden Goblin Press en Nueva York. Contiene únicamente las descripciones de los hechizos, no los rituales completos que aparecían en ediciones anteriores. Es posible que se pueda encontrar esta edición en tiendas de libros de segunda mano.|+3%/+6%|27%|2D8|30 semanas|Ninguno|
+| **De Vermiis Mysteriis**</br>*En latín, por Ludwig Prinn, 1542*| Edición en tamaño folio encuadernada en negro, impresa en Colonia, Alemania, en ese mismo año. Censurado por la iglesia. Han sobrevivido quince ejemplares. Describe parte del mundo árabe y de las cosas sobrenaturales que suceden en él.|+4%/+8%|36%|2D6|48 semanas|Contactar con dios/Yig, Crear ventana de observación, Crear zombi, Invocar demonio (Convocar/Atar Byakhee), Invocar al hijo de la cabra (Convocar/Atar retoño oscuro), Invoca r sirviente invisible (Convocar/Atar vampiro estelar), Signo de Voorish (signo de conjuración), Transferencia de mente.|
+| **Escrituera de Ponapé**</br>*En inglés, por el Capitán Abner Ezelciel Hoag, 1734*|Publicada con carácter póstumo en Boston alrededor del 1795 en formato de dieciseisavo (lO cm x 17 cm), pero inferior en exactitud e integridad al manuscrito de Hoag, del que se supone que aún existen algunos ejemplares. Relata detalles de una secta de isleños de los mares del Sur que adoraban a los profundos y procreaban con ellos.|+ 1%/ +4%|15%|1D6|10 semanas|La versión impresa no contiene ningún hechizo. El manuscrito original contiene Contactar con un profundo, Contactar con Padre Oagón y Contactar con Madre Hidra.|
+| **Fragmentos de Celeno**</br>*Manuscrito hológrafo en inglés por el Dr. Laban Shrewsbury, 1915 (1938)*|Solo se conoce un ejemplar que fue depositado en la Biblioteca de la Universidad Miskatonic poco antes de que el autor desapareciera de forma misteriosa.|+3%/+6%|27%|1D8|15 semanas|Convocar/Atar Byakhee, Encantar silbato, Fabricar hidromiel espacial, Llamar a Cthugha, Símbolo arcano.|
+| **Fragmentos de Eltdown**</br>*En inglés, por el reverendo Arthur Broa/ce Winters-Hall, 1912* | Traducción un tanto cuestionable de los misteriosos jeroglíficos encontrados en unos fragmentos de cerámica al sur de Inglaterra, en una edición de 350 folletos de 64 páginas. Habla de unos seres capaces de intercambiar su mente con otros a lo largo del espacio y del tiempo.|+3%/+8%|33%|1D8|6 semanas|Contactar con un yithiano.|
+| **Fragmentos de G'harre**</br>*En inglés, por Sir Amery Wendy-Smith, 1919 (publicado en 1931)*| Estudio erudito y traducción de un os fragmentos inscritos con unos curiosos patrones de puntos circulares. Describe en gran detalle la ciudad perdida de G'harne, e incluye su ubicación. Los fragmentos fueron descubiertos por Windrop en el África septentrional. La edición original tuvo una tirada de 958 ejemplares, impresos a expensas del autor con un humilde form ato de dieciseisavo (11 cm x 15 cm).|+3%/+7%|30%|1D10|12 semanas|Contactar con un Antiguo, Contactar con un chthonian, Contactar con Shudde M'ell, Signo rojo de Shudde M'ell.|
+| **El Libro de Dzyan**</br>*En inglés, autor y traductor desconocidos, supuestamente de origen antiguo* | Su autoría se atribuyó durante mucho tiempo a la teósofa Helena Blavatsky, aunque nunca se ha encontrado una copia que lo verifique. Se dice que es una traducción de unos manuscritos originales de la Atlántida. También llamado Las estrofas de Dzyan. Varios fragmentos de esta obra se han traducido como La doctrina secreta , que no incluye hechizos ni otros datos sobre los Mitos.|+3%/+6%|27%|1D6|14 semanas|Invocar al caminante inadvertido (Convocar/ Atar a un vagabundo dimensional), Invocar a un espíritu de los vientos (Convocar/Atar a un Byakhee), Invocar a un hijo de los bosques (Convocar/Atar a un retoño oscuro), Visión onírica (Contactar con Cthulhu).|
+| **El libro de Eibon (versión 1)**</br>*En inglés, traductor desconocido, siglo XV d. C. aprox.* | Una traducción incompleta y repleta de errores. Se conocen un total de dieciocho ejemplares en varias manos.|+3%/+8%|33%|2D4|32 semanas| Ajar un miembro, Contactar con una semilla informe de Zhothaqquah (semilla informe), Contactar con un dios/Kthulhut (Cthulhu), Contactar con un dios/Yak Zothoth (Yog-Sothoth), Contactar con un dios/Zhothaqquah (Tsathoggua), Crear niebla de R'lyeh, Crear portal. Descomposición verde, Encantar cuchillo, Llamar/Expulsar a Azathoth.|
+| **Liber Ivonis (versión 2)**</br>*En latín, traducido por Caius Phillipus Faber, siglo IX d. C.* | Aunque se dice que el original fue obra d el hechicero hiperbóreo Eibon, jamás se ha en contrado versión alguna anterior a la latina para poder confirmarlo. Nunca llegó a imp rimirse, pero se han catalogado un total de seis versiones manuscritas y encuad ernadas como parte de las colecciones de varias bibliotecas.|+4%/+9%|39%|2D4|36 semanas| Ajar un miembro, Contactar con una semilla informe de Zhothaqquah (semilla informe), Contactar con un dios/Kthulhut (Cthulhu), Contactar con un dios/Yak Zothoth (Yog-Sothoth), Contactar con un dios/Zhothaqquah (Tsathoggua), Crear barrera de Naach-Tith, Crear niebla de R'lyeh, Crear portal, Descomposición verde, Encantar cuchillo, Llamar/Expulsar a Azathoth, Signo de Voorish (signo de conjuración).|
+| **Livre D'ivon**</br>*En francés, traducido por Gaspard du Nord, siglo XIII d. C. aprox.* |Manuscrito encuadernado del que se sabe existen trece ejemplares, parciales o completos.|+4%/+8%|36%|2D6|36 semanas|Los mismos que en Liber lvonis.|
+| **Magia auténtica**</br>*En inglés, por Theophilus Wenn, siglo XVII*|Un pequeño y desmenuzado manuscrito encuadernado a mano que, sin embargo, puede calificarse como una verdadera enciclopedia sobre el conocimiento del Diablo.|+2%/+4%|18%|1D8|24 semanas|Hablar con el Oscuro (Contactar con Nyogtha), Invocar al Alado (Convocar/Atar a un byakhee), Invocar a un espíritu del aire (Convocar/Atar a un vampiro estelar), Invocar al Único (Convocar/Atar a un servidor de los Otros Dioses).|
+| **Manuscritos pnakótikos**</br>*En inglés, autor y traductor desconocidos, siglo XV*|En Europa y América se encuentran catalogadas cinco versiones de este libro encuadernadas y manuscritas (copias parciales de una obra más grande, ahora perdida). El supuesto volumen precursor, la Pnakotica, estaba escrito en griego clásico, y puede trazar sus orígenes hasta los crinoideos prehumanos que sembraron la vida en la tierra.|+3%/+7%|30%|1D8|45 semanas|Contactar con un alado (Contactar conun Antiguo)|
+|**Massa di Requiem Per Shuggay**</br>*En italiano, por Benvenuto Chieti Brodighera, 1768*|Una ópera (partitura y libreto) jamás publicada y que, según se cree, solo se ha representado en una ocasión. Trata sobre la violación, el incesto y otras formas de degradación. Los músicos entendidos afirman que algunos de sus fragmentos son imposibles de tocar. Se conservan ejemplares en el Museo Británico, la Bibliothéque Nationale de París y, probablemente, en la Colección Z del Vaticano.|+1%/+3%|12%|1D6|2 semanas| Si se representa con una orquesta completa, se ejecuta el hechizo Llamar a Azathoth a mitad del tercer acto.|
+| **Los monstruos y su realea**</br>*En inglés, autor desconocido, siglo XVI*|Solo ha existido una versión en formato de folio de este ma nuscrito, y lo robaron del Museo Británico en 1898. Hoy día sigue habiendo rumores de la ex istencia de otros ejemplares, aunque nadie ha podido verificarlo. In cluye una mezcla de temas extraídos del Necronomicón, El libro de Eibon y otros muchos. Trata acerca de varias entidades, incluyendo a Cthulhu, Yog-Sothoth y Lloigor, el gemelo de Zhar.|+2%/+6%|24%|1D8|36 semanas|Encantar cuchillo, Encantar flauta, Subyugara una bestia de la noche (Convocar/Atar a un horrendo cazador), Subyugar a un caminante estelar (Convocar/Atara un vagabundo dimensional), Subyugar a aquel que no tiene rostro (Convocar/Atar a un ángel descarnado de la noche), Subyugar a un demonio de hielo (Convocar/Atar a un Byakhee), Subyugar a un sirviente invisible (Convocar/Atar a un vampiro estelar).|
+| **Necronomicón - Al Azif (versión 1)**</br>*En árabe, por Abdul Alhazred (Abd al-Azrad), 73 0 d. C. aprox.*| Se desconoce su formato original, pero circularon numerosas versiones entre los eruditos medievales. Ya en el s. XII se hacía referencia a esta edición como perdida. Se trata de un inmenso compendio que toca casi todos los aspectos de los Mitos y una referencia válida en muchos aspectos, incluyendo cartas y mapas estelares.|+6%/+12%|54%|2D10|68 semanas|Consunción, Contactar con un gul, Contactar con un habitante de la arena, Co ntactar con un dios/Nyarlathotep, Convocar/Atar a un byakhee, Convocar/Atar a un servidor de los Otros Dioses, Convocar/Atar a un vampiro de fuego, Dominar, Llamar/Expulsar a Azathoth, Llamar/Expulsar a Cthugha, Llamar/Expulsar a Hastur, Llamar/Expulsar a Nyogtha, Llamar/Expulsar a Shub-Niggurath, Llamar/Expulsar a Yog-Sothoth, Maldición de Azathoth, Polvo de Ibn-Ghazi, Polvo de Suleimán, Resurrección, Signo de Voorish (signo de conjuración), Símbolo arcano.|
+| **Necronomicón - (versión 2)**</br>*En griego, traducido por Theodoras Philetas, 950 d. C. aprox.|Se desconoce la existencia de las primeras copias manuscritas. Una pequeña tirada impresa en Italia (¿Florencia?) fue censurada por la iglesia; esta carecía de dibujos, mapas y cartas. El último ejemplar conocido ardió en Salem en 1692.|+5%/+12%|51%|2D10|68 semanas| Los mismos que en *Al Azif*.|
+| **Necronomicón - (versión 3)**</br>*En latín, traducido por Olaus Wonnius, 1228 d. C.*|Pri mero circuló por Alemania en forma manuscrita (a finales del siglo XV), en formato de folio y letra gótica. Después, a principios del siglo XVII se publicó en España una edición casi idéntica. Se sabe de la existencia de un ejemplar de la primera y cuatro ejemplares de esta última.|+5%/+11%|48%|2D10|66 semanas|Los mismos que en *Al Azif*.|
+| **Necronomicón - (versión 4)**</br>*En inglés, traducido por el Dr. John Dee, 1586*|Una versión exacta aunque expurgada de la traducción griega. Jamás se imprimió; existe solo en forma de manuscrito encuadernado. Se sabe de la existencia de tres copias casi completas.|+5%/+10%|45%|2D10|50 semanas|Consultar al espíritu de la tierra (Contactar con Nyarlathotep), Consultar al servidor oscuro (Contactar con un gul), Dominar, Invocar al Ángel Yazrael (Llamar/Expulsar a Yog-Sothoth), Invocar al señor del abismo (Llamar/Expulsar a Nyogtha), Polvo de Ibn-Ghazi, Polvo de Suleimán, Símbolo arcano, Signo de Voorish (signo de conjuración), Subyugar al Ángel Dilyah (Convocar/Atar a un servidor de los Otros Dioses).|
+| **Necronomicón - El manuscrito de Sussex (versión 5)**</br>*En inglés, traducido por el Barón Frederic, 1597*|Una traducción confusa e incompleta de la versión latina del Necrononúcón, impreso en Sussex, Inglaterra, en formato octavilla. Más propiamente conocido como el Cultus Maleficarum.|+2%/+5%|21%|1D6|36 semanas|Los mismos que en *Al Azif*, pero es posible que resulten peligrosamente defectuosos en cuanto a su forma y su propósito.|
+| **Prodigios taumatúrgicos en la Canaán de Nueva Inglaterra**</br>*En inglés, por el reverendo Ward Phillips, ¿1788?*| Publicado en dos ediciones, la segunda en Boston en 1801. Un rudimentario octavo americano en imitación a cuero negro. El interior de ambas ediciones es el mismo, salvo por los cambios de imprenta, lugar de impresión y fecha de edición. Es frecuente encontrarlo en bibliotecas de cierta importancia y en las sociedades históricas de Nueva Inglaterra. Describelas blasfemias propias de brujas, brujos, chamanes y otros practicantes del mal en la Era ColoniaL Detalla los acontecimientos que tuvieron lugar en el bosque de Billington.|+1%/+3%|12%|1D6|8 semanas|Ninguno, pero existen anotaciones en el ejemplar personal del reverendo Phillips que revelan Contactar con Narlato (Nyarlathotep), Contactar con Sadogowah (Tsathoggua), Contactar con Yogge Sothyothe (Yog-Sothoth), Llamar/Expulsar lthaka (lthaqua), Símbolo arcano.|
+| **El pueblo del monolito**</br>*En inglés, por Justin Geoffrey, 1926*|Una antología de poemas con unas dimensiones de 10cm x 17cm, encuadernada en tapas de bucarán de color rojo oscuro y editada por Erebus Press, de Monmouth, Illinois, con una tirada de 1.200 ejemplares. El poema que le da título está reconocido como la obra maestra de Geoffrey.|+1%/+2%|9%|1D3|1 semana|Ninguno|
+|**Revelaciones de Gla'aki**</br>*En inglés, varios autores, 1842*|Se publicaron nueve volúmenes en formato de folio mediante subscripción, el último en 1865. Se dice que, desde ese momento, se han compuesto otros tres volúmenes que han circulado de forma privada. Se conservan ejemplares de los nueve volúmenes de formato folio en varias bibliotecas importantes. Cada uno de ellos ha sido escrito por un sectario distinto, tratando también distintos aspectos de Gla'aki, de las entidades asociadas a él y de otras sectas. Parece ser que esta versión del texto fue expurgada, aunque conserva gran parte de la información.|+5%/+10%|45%|2D8|32 semanas| Contactar con un dios (Eihort), Contactar con un dios (Gia'aki), Descomposición verde, Llamar/Expulsar a Azathoth, Llamar/Expulsar a Daoloth, Llamar/Expulsar a Shub-Niggurath.|
+| **El rey amarillo**</br>*En inglés, traductor desconocido, 1895 aprox.*|Al parecer, el original estaba escrito en francés, pero esa edición fue secuestrada y destruida por la Tercera República justo tras su publicación. La edición inglesa es un fino volumen negro tamaúo octavilla en cuya cubierta hay un gran Signo amarillo estampado en relieve. Hasta que no se lee el libro, el signo no afecta a aquel que lo ve más que para suscitarle una intensa curiosidad. Después de leer el libro (o de haber tenido contacto con algo o alguien de Carcasa), contemplar el signo produce una pérdida de 0/1D6 Puntos de Cordura (una sola vez). El texto es una ambigua y onírica representación teatral que conduce al público a la locura. Curiosamente, los lectores no son capaces de concebir que lo que hay ahí escrito no sea reaL Aquellos que poseen una faceta artística se sentirán empujados a releer la obra. Si el libro acaba provocando la locura, el lector se obsesionará con Carcasa y con el Rey de amarillo (véase el Signo amarillo en la página 343).|+1%/+4%|15%|1D10|1 semana|Ninguno|
+| **Los siete librios crípticos de Hsan**</br>*En chino, escrito por Hsan el Viejo, siglo II d. C. aprox.*|Siete pergaminos, cada uno de ellos versado sobre un tema distinto. Se dice que existe una traducción al inglés llamada Los siete libros crípticos de la Tierra. Estos pergaminos tratan acerca de elementos de los Mitos de particular importancia o interés para aquellos que habitan en el Imperio Medio (China).|+2%/+6%|24%|1D8|40 semanas|Atraer a un espíritu (Convocar/Atar a un Byakhee), Contactar con un gul, Contactar con un perro de Tíndalos, Invocar a un espíritu de la tierra (Contactar con un chthonian), Contactar con un dios/Nyarlathotep, Puerta hacia Kadath (un portal hacia Kadath), Restaurar la vida (Resurrección).|
+| **Las tabletas de Zanthu**</br>*En inglés, por el profesor Harold Hadley Copeland, 1916*|Un folleto que lleva por subtítulo «Una traducción conjetural » con una tirada de 400 ejemplares. Traduce las inscripciones grabadas sobre unas tabletas de jade que recuperaron unos pescadores en el océano Pacífico. El autor afirma que las inscripciones son nacaal hierático, la alta lengua de la antigua Mu. El folleto describe la adoración de Ghatanothoa, Shub-Niggurath y Cthulhu.|+1%/+2%|9%|1D6|9 semanas|El texto está parcialmente expurgado y no contiene ningún hechizo. Las tabletas muanas originales contienen Contactar con un dios/Cthulhu, Ghatanothoa, Lloigor, Yuggya y Zoth-Ommog.|
+|**El texto de R'lyeh**</br>*En chino, autor desconocido, 300 a. C. aprox.*| Las tablillas de arcilla originales fueron supuestamente destruidas, pero se dice que existen copias en pergamino y traducciones recientes al inglés y al alemán. Al parecer, el texto trata acerca de Dagón, Hidra, la semilla estelar Zoth-Ommog, Ghatanothoa y Cthulhu, y habla del hundimiento de Mu y de R'lyeh.|+5%/+10%|45%|2D6|54 semanas|Contactar con un dios/Cthulhu, Contactar con Madre Hidra, Contactar con Padr·e Oagón, Contactar con un profundo, Llamar a Cyaegha, Ola de olvido.|
+
+## Tabla de tomos resumida
+
+|**Título**|**Idioma**|**Fecha**|**Autor**|**Smns.**|**COR**|**MCI**|**MCT**|**PM**|
+|----------|----------|---------|---------|:-------:|:-----:|:-----:|:-----:|:----:|
+|Al Azif|árabe| 730 aprox.| Abdul Alhazred| 68 | 2D10 | 6 | 12 | 54|
+|Alma en caos |inglés| |Edgar Gordon| 7 |1D4| 1| 3| 12|
+|Angel descarnado de la noche, El |inglés| |Edgar Gordon| 4| 1D3| 0| 1| 3|
+|Azathoth y otros| inglés |1919| Edward Derby| 1| 1D4| 1| 3| 12|
+|Cábala de Saboth, La| griego |1686| desconocido| 16| 1D6 |1| 2| 9|
+|Canción de Yste, La| griego ||Familia Dirka| 11| 1D6| 1| 4| 15|
+|Cánticos de Dhol| alemán| 1890s| Heinrich Zimmerman| 17| 1D8| 2| 5| 21|
+|Cánticos de Yuggya| inglés|| desconocido| 11| 1D6| 1| 3| 12|
+|Chronike von Niath| alemán|| Rudolf Yergler| 22| 1D8| 2| 4| 18|
+|Confesiones de Clithanus, el monje loco| latin |400 aprox.| Clithanus| 29| 2D6| 3| 6| 27|
+|Cthaat Aquadingen| inglés| s.XIV| desconocido| 29| 2D4| 2| 4| 18|
+|Cthaat Aquadingen| latin| s.XI-XII| desconocido| 46| 2D8| 4| 9| 39|
+|Cthulhu en el Necronomicón| inglés| 1915| Shrewsbury| 14| 1D6| 2| 4| 18|
+|Cuarto libro de D'harsis, El| inglés|| D'harsis| 42| 2D6| 3| 8| 33|
+|Cultes des Goules| francés| 1702|  Francois-Honore Balfour| 22| 1D10| 4| 8| 36|
+|Cultos inconfesables| inglés| 1845| desconocido| 48| 2D8| 4| 8| 36|
+|Cultos inconfesables |inglés| 1909| desconocido| 30| 2D8| 3| 6| 27|
+|Daemonolatreia | inglés| 1595| Remigius| 28| 1D8| 2| 6| 24|
+|Demaléfica hechicería practicada en N. Inglaterra| inglés| 1600 aprox.| desconocido| 9| 1D6| 1| 3| 12|
+|De Vermiis Mysteriis | latin| 1542| Ludwig Prinn| 48| 2D6| 4| 8| 36|
+|Dios negro de la locura, El| inglés| Años 30 |Amadaeus Carson| 7| 1D6| 1| 3| 12|
+|El que socava allá abajo| inglés| 1936| Georg Reuter| 2| 1D3| 1| 2| 9|
+|En lugares oprimidos |inglés|| Hartrack| 3| 1D6 |1| 4| 15|
+|Escritura de Ponapé |inglés| 1734| Abner Ezekiel| 10| 1D6| 1| 4| 15|
+|Ética de Ygor| latin| |desconocido| 13| 1D6| 1| 3| 12|
+|Fischbuch| alemán| 1598| Konrad von Gerner| 8| 1D4| 1| 2| 9|
+|Fragmentos de Celeno| inglés| 1915|Laban Shrewsbury| 15| 1D8| 3| 6| 27|
+|Fragmentos de Eltdown| inglés| 1912|Arthur B. Wintes Hall|6|1D8|3|8|33|
+|Fragmentos de G'harne| inglés||Amery Wendy-Smith|12|1D10|3|7|30|
+|Fundación oculta, La| inglés | 1980 aprox.|J.C. Wassermann|16|1D6|1|4|15|
+|Ghorl Nigral|naacal||Zakuba|46|2D8|4|10|42|
+|IIydrophinnae |latin||Mr. Gantley|7|1D4|1|2|9|
+|Invocaciones de Dagón, Las| inglés||Asaph Waite|16|1D8|3|6|27|
+|Leyendas de Liqualia| inglés||Oswald|9|1D4|1|3|12|
+|Liber Damnatus Damnationum |inglés| 1647|Janus Aquaticus|34|1D8|3|7|30|
+|Liber Ivonis |latin | s.IX|Caius Philipus|36|2D4|4|8|39|
+|Libro de Dzyan, El| inglés||desconocido|14|1D6|3|7|27|
+|Libro de Eibon, El| inglés| s.XV|desconocido|32|2D4|3|8|33|
+|Libro de Iod, El| lengua antigua||desconocido|51|2D6|4|8|36|
+|Libro de Iod, El| traducción al inglés||Johan Negus|10|1D6|1|3|12|
+|Libro de Skelos, El | nklo||desconocido|54|2D6|3|7|30|
+|Libro negro del cráneo, El| griego||J'cak Igguratian|29|1D8|2|4|18|
+|Libro negro, El| latin||Alsophocus|37|2D6|3|7|30|
+|Libro verde, El| inglés||desconocido|50|2D8|4|9|39|
+|Livre D'Ivon |francés| s.XIII|Gasaprd du Nord |36|2D4|4|8|36|
+|Llave de Naacal, La| inglés||Churchward|2|1D2|0|1|3|
+|Los que velan en silencio| inglés||Halpin Chalmere|10|1D4|1|3|12|
+|Los que vigilan desde el otro lado| inglés| años 40|Nayland Colum|2|1D4|0|3|9|
+|Magia auténtica| inglés|s.XVII|Theophilus Venn| 24| 1D8| 2| 4| 18|
+|Magia y las artes negras, La |inglés||Kane| 12| 1D6| 1| 4| 15|
+|Manuscrito de Sussex, El| inglés| 1597|Baron Frederic| 36| 1D6| 2| 5| 21|
+|Manuscritos pnakóticos| inglés| s.XV|desconocido| 45| 1D8| 3| 7| 30|
+|Maravillas de la naturaleza |inglés||Morryster| 11| 1D4| 1| 2| 9|
+|Massa di Requiem Per Shuggay|italiano| 1768|B. Chieti Brodighera| 2| 1D6| 1| 3| 12|
+|Misterios secretos de Asia, con un comentario Ghorl Nigral| alemán| 1847| Gottfried Mulder| 16| 1D8| 2| 5| 21|
+|Mitologia polinesia, con nota acerca del ciclo de leyendas de Cthulhu| inglés| 1906|Harold H. Copel|8| 1D3| 1| 2| 9|
+|Monstruos y su ralea, Los| inglés |s.XVI| desconocido| 36| 1D8| 2| 6| 24|
+|Moradores de las profundidades, Los |francés| |Gastan Le Fe| 12| 1D8| 2| 6| 24|
+|Narración de Johansen| inglés| |Gustaf Johansen| 6| 1D6| 1| 3 |12|
+|Necrolatria| alemán| 1702| Ivor Gorstadt| 20| 2D6| 4| 8| 36|
+|Necronomicon| griego| 950 aprox.|Theodoras Philetas| 68| 2D10| 5| 12| 51|
+|Necronomicon| latin| 1228| Olaus Wormius| 66| 2D10| 5| 11| 48|
+|Necronomicón| inglés| 1586| John Dee| 50| 2D10| 5| 10| 45|
+|Othuum Omnicia |latin|| desconocido| 12| 1D4| 1| 2| 9|
+|Pacifico prehistórico a la ñuz de la escritura de Ponapé, El| inglés| 1911|Harold H.Copel|7| 1D4| 1| 3 |12|
+|Papiros de Ilarnek, Los| inglés| |desconocido| 15 |1D8| 2| 4| 18|
+|Papiros de Mum-Rath| latin|| Ibn Shoddathua| 10| 1D6| 1| 3| 12|
+|Pasamos de vista| inglés| 1964|Roland Franklyn| 1| 1D6| 1| 3| 12|
+|Pergaminos de Pnom, Los| hiperbóreo|| Pnom| 31| 2D6| 3| 8| 33|
+|Prehistoria en el Pacifico: investigación preliminar| inglés| 1902| Harold II.Copeland| 4| 1D2| 0| 1| 3|
+|Prodigios taumatúrgicos en la Canaán de N. Inglaterra| inglés| 1788| Ward Philips| 8| 1D6| 1| 3| 12|
+|Pueblo del monolito, El| inglés| 1926| Justin Geoffrey| 1| 1D3| 1 |2| 9|
+|Reflexiones| inglés|| Ibn Schacabao| 27| 1D8| 2| 6| 24|
+|Retazos de imperios perdidos| alemán| 1809| Otto Dostmann| 5| 1D3| 0| 2| 6|
+|Revelaciones cthónicas| laosiano|| Thanang Phram| 18| 1D8| 2| 5| 21|
+|Revelaciones de Gla'aki| inglés| 1842| varios autores| 32| 2D6| 5| 10| 45|
+|Revel aciones de Hali, Las| inglés| 1913| E. S. Sayrolles| 5| 1D4| 1| 3| 12|
+|Rey de amarillo, El| inglés| 1895| desconocido| 1| 1D10| 1| 4| 15|
+|Ritos negros |egipcios|| Luveh-Keraphf| 41| 2D6| 3| 8| 33|
+|Rituales sarracenos| inglés| s.XIX|Clergyman X |6|1D3|1|2|9|
+|Rituales toscanos| italiano||desconocido |3|1D3|0|2|6|
+|Rituales yhe| egipcio||Niggoum-Zhog|14|1D8|3|6|27|
+|Saducismus Triumphatus |inglés| 1681|Joseph Glanvill|6|1D6|1|3|12|
+|Sapientia Maglorum| latin||Ostanes|40|2D6|3|7|30|
+|Siete libros cripticos de Hsan, Los| chino| s.II| Hsan el Viejo|40|1D8|2|6|24|
+|Sutra negra| birmano| 700 aprox.|U Pao|18|1D8|1|4|15|
+|Tabletas de Zanthu, Las| inglés| 1916|Harold H. Copeland|8|1D6|1|2|9|
+|Testamento de Carnamagos, El| griego| s.XII |Carnamagos|23|1D6|2|4|18|
+|Texto de R'lyeh , El| chino| 300 a.c. aprox.|desconocido|54|2D8|5|10|45|
+|Transcripciones de Geph|inglés||desconocido|20|1D8|2|5|21|
+|Unaussprechlichen Kulten |alemán| 1839|F. W. von Juntz|52|2D8|5|10|45|
+|Unter Zee Kulten |alemán|s.XVII|Graf Gauberg|17|1D6|2|4|18|
+|Uralteschrecken| alemán| s.XIX|Graf von Konnenberg|22|1D6|2|4|18|
+|Vida de Eibon |francés||Cyron|8|1D4|1|2|9|
+|Visiones de Yaddith| inglés| 1927|Ariel Prescott|1|1D4|1|3|12|
+|Von denen Verdammten |alemán (reimpresión)| 1907|Edith Brendall|10|1D6|1|4|15|
+|Von denen Verdammten Oder| alemán||Karaj Heinz Vogel|24|2D6|4|8|36|
 
 # Tabla de dinero y propiedades
 # Tabla del nivel de vida
