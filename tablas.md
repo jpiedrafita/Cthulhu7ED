@@ -19,6 +19,8 @@
   - [Episodios de locura resumidos](#episodios-de-locura-resumidos-1d10)
   - [ejemplos de fobias](#ejemplos-de-fobias)
   - [ejemplos de manías](#ejemplos-de-manías)
+- [Magia](#magia)
+  - [Tomos de los mitos](#tomos-de-los-mitos)
 
 
 
@@ -136,6 +138,7 @@
 |**SOLDADO**|Armas de fuego, Combatir, Esquivar, Sigilo, Supervivencia, Trepar o Nadar), dos de las siguienres: Mecánica, Otras lenguas o Primeros auxilios.|9-30|EDUx2 + DESx2 o FUEx2|
 |**VAGABUNDO**| Escuchar, Orienrarse, Saltar, Sigilo, Trepar, una habilidad inrerpersonal (Charlatanria, Encanto, Intimidar o Persuasión) y dos habilidades cualesquiera.|0-5|EDUx2 + APAx2 o DESx2 o FUEx2|
 
+#**TODO**: profesiones del manual del investigador 
 # Combate
 ## Diagrama de combate
 ```mermaid
@@ -554,6 +557,9 @@ graph TD
 |**98. Tricotilomanía**: Ansia por tirarse del pelo.|
 |**99. Xenomanía**: Obs es ión por lo ex tranjero.|
 |**100. Zoomanía**: Amor insano hacia los animales.|
+
+# Magia
+## Tomos de los mitos
 
 # Tabla de dinero y propiedades
 # Tabla del nivel de vida

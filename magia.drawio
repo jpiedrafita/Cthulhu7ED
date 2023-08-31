@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-08-31T09:28:22.133Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="Ec_aMlTjjFb4b_PM2kTr" version="21.6.8" type="device">
+<mxfile host="Electron" modified="2023-08-31T10:55:40.441Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="RsX5Bbeahfr-AbyTZjYF" version="21.6.8" type="device">
   <diagram name="Página-1" id="_E0Gb9eyrt3_907GWJmA">
-    <mxGraphModel dx="1242" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,7 +153,7 @@
             <mxPoint x="1109.5" y="820.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zGOpVJLKZE8llhAOcDEO-44" value="Éxito" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=jmh-cthulhumbus-ugalt2-1;fontColor=default;" parent="zGOpVJLKZE8llhAOcDEO-43" vertex="1" connectable="0">
+        <mxCell id="zGOpVJLKZE8llhAOcDEO-44" value="Éxito&lt;br&gt;-COR" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=jmh-cthulhumbus-ugalt2-1;fontColor=default;" parent="zGOpVJLKZE8llhAOcDEO-43" vertex="1" connectable="0">
           <mxGeometry x="-0.0333" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -173,7 +173,7 @@
         <mxCell id="zGOpVJLKZE8llhAOcDEO-51" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=jmh-cthulhumbus-ugalt2-1;fontSize=12;fontColor=default;endArrow=classic;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="zGOpVJLKZE8llhAOcDEO-47" target="zGOpVJLKZE8llhAOcDEO-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zGOpVJLKZE8llhAOcDEO-52" value="Éxito" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=jmh-cthulhumbus-ugalt2-1;fontColor=default;" parent="zGOpVJLKZE8llhAOcDEO-51" vertex="1" connectable="0">
+        <mxCell id="zGOpVJLKZE8llhAOcDEO-52" value="Éxito&lt;br&gt;-COR" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=jmh-cthulhumbus-ugalt2-1;fontColor=default;" parent="zGOpVJLKZE8llhAOcDEO-51" vertex="1" connectable="0">
           <mxGeometry x="-0.8333" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -201,10 +201,10 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zGOpVJLKZE8llhAOcDEO-47" value="Forzar tirada&lt;br&gt;-PM, -POD, -COR" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;labelBorderColor=none;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;fontFamily=jmh-cthulhumbus-ugalt2-1;fontSize=12;fontColor=default;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="zGOpVJLKZE8llhAOcDEO-47" value="Forzar tirada&lt;br&gt;-PM, -POD," style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;labelBorderColor=none;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;fontFamily=jmh-cthulhumbus-ugalt2-1;fontSize=12;fontColor=default;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="969.5" y="980.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zGOpVJLKZE8llhAOcDEO-53" value="Ejecutar hechizo&lt;br&gt;-PM, -POD, -COR" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBorderColor=none;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;fontFamily=jmh-cthulhumbus-ugalt2-1;fontSize=12;fontColor=default;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="zGOpVJLKZE8llhAOcDEO-53" value="Ejecutar hechizo&lt;br&gt;-PM, -POD" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBorderColor=none;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;fontFamily=jmh-cthulhumbus-ugalt2-1;fontSize=12;fontColor=default;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="949.5" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zGOpVJLKZE8llhAOcDEO-62" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=jmh-cthulhumbus-ugalt2-1;fontSize=12;fontColor=default;endArrow=classic;" parent="1" source="zGOpVJLKZE8llhAOcDEO-57" target="zGOpVJLKZE8llhAOcDEO-59" edge="1">
@@ -216,7 +216,7 @@
         <mxCell id="zGOpVJLKZE8llhAOcDEO-57" value="-PM/-COR/-POD x 1D6" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBorderColor=none;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;fontFamily=jmh-cthulhumbus-ugalt2-1;fontSize=12;fontColor=default;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="949.5" y="1100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sm4P2QWXEWX1IY5TCKd--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="zGOpVJLKZE8llhAOcDEO-59" target="sm4P2QWXEWX1IY5TCKd--4">
+        <mxCell id="sm4P2QWXEWX1IY5TCKd--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="zGOpVJLKZE8llhAOcDEO-59" target="sm4P2QWXEWX1IY5TCKd--4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zGOpVJLKZE8llhAOcDEO-59" value="El hechizo se ejecuta con éxito." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBorderColor=none;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;fontFamily=jmh-cthulhumbus-ugalt2-1;fontSize=12;fontColor=default;fillColor=none;" parent="1" vertex="1">
@@ -235,10 +235,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sm4P2QWXEWX1IY5TCKd--7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=jmh-cthulhumbus-ugalt2-1;fontSize=16;fontColor=default;endArrow=classic;startSize=0;" edge="1" parent="1" source="zGOpVJLKZE8llhAOcDEO-76" target="zGOpVJLKZE8llhAOcDEO-80">
+        <mxCell id="sm4P2QWXEWX1IY5TCKd--7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=jmh-cthulhumbus-ugalt2-1;fontSize=16;fontColor=default;endArrow=classic;startSize=0;" parent="1" source="zGOpVJLKZE8llhAOcDEO-76" target="zGOpVJLKZE8llhAOcDEO-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sm4P2QWXEWX1IY5TCKd--8" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=jmh-cthulhumbus-ugalt2-1;fontColor=default;" vertex="1" connectable="0" parent="sm4P2QWXEWX1IY5TCKd--7">
+        <mxCell id="sm4P2QWXEWX1IY5TCKd--8" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=jmh-cthulhumbus-ugalt2-1;fontColor=default;" parent="sm4P2QWXEWX1IY5TCKd--7" vertex="1" connectable="0">
           <mxGeometry x="-0.8184" y="-1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -313,13 +313,13 @@
             <mxRectangle width="250" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sm4P2QWXEWX1IY5TCKd--1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;USO ESPONTÁNEO DE MC&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;Elegir un efecto y un coste acordado con el guardia.&lt;br&gt;Hacer una tirada normal de MC o enfrentada al POD de la víctima si procede.&lt;br&gt;Se puede forzar la tirada con los mismos efectos que en un hechizo.&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBorderColor=none;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;fontFamily=jmh-cthulhumbus-ugalt2-1;fontSize=12;fontColor=default;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="sm4P2QWXEWX1IY5TCKd--1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;USO ESPONTÁNEO DE MC&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;Elegir un efecto y un coste acordado con el guardia.&lt;br&gt;Hacer una tirada normal de MC o enfrentada al POD de la víctima si procede.&lt;br&gt;Se puede forzar la tirada con los mismos efectos que en un hechizo.&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBorderColor=none;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;fontFamily=jmh-cthulhumbus-ugalt2-1;fontSize=12;fontColor=default;fillColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1330" y="120" width="280" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="sm4P2QWXEWX1IY5TCKd--4" value="Marca en POD al ganar tirada enfrentada." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBorderColor=none;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;fontFamily=jmh-cthulhumbus-ugalt2-1;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="sm4P2QWXEWX1IY5TCKd--4" value="Marca en POD al ganar tirada enfrentada." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBorderColor=none;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;fontFamily=jmh-cthulhumbus-ugalt2-1;fontSize=12;fontColor=default;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1109.5" y="719.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sm4P2QWXEWX1IY5TCKd--6" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Causar daño físico&lt;/b&gt;: -PM, -COR = 1/2 PM, MC vs POD, daño = PM.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Desterrar monstruo&lt;/b&gt;: PM = 1/5 POD monstruo, -1D3 COR, MC vs POD.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Comunicarse con un muerto reciente&lt;/b&gt;: -10PM, -1D10 COR, tirada MC. Efecto varios asaltos.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBorderColor=none;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;fontFamily=jmh-cthulhumbus-ugalt2-1;fontSize=14;fontColor=default;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="sm4P2QWXEWX1IY5TCKd--6" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Causar daño físico&lt;/b&gt;: -PM, -COR = 1/2 PM, MC vs POD, daño = PM.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Desterrar monstruo&lt;/b&gt;: PM = 1/5 POD monstruo, -1D3 COR, MC vs POD.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Comunicarse con un muerto reciente&lt;/b&gt;: -10PM, -1D10 COR, tirada MC. Efecto varios asaltos.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBorderColor=none;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;fontFamily=jmh-cthulhumbus-ugalt2-1;fontSize=14;fontColor=default;fillColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1330" y="310" width="280" height="140" as="geometry" />
         </mxCell>
       </root>
