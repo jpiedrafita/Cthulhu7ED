@@ -8,5 +8,6 @@
 *.bak
 *.swp
 *.bkp
+*.dtmp
 *~
 .DS_Store

@@ -13,7 +13,7 @@ Resumen de reglas para la llamada de Cthulhu 7ª Edición
 - [Persecuciones](#persecuciones)
 - [Cordura](#cordura)
 - [Magia](#magia-y-hechizos)
-- [Estudio de libros](#estudio-de-libros)
+
 # Sistema general
 
 ![Sistema](sistema.png)
@@ -38,5 +38,4 @@ Resumen de reglas para la llamada de Cthulhu 7ª Edición
 ![Cordura](cordura.png)
 
 # Magia y hechizos
-
-# Estudio de libros
+![Magia](magia.png)
