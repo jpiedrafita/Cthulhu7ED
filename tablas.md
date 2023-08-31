@@ -560,6 +560,11 @@ graph TD
 
 # Magia
 ## Tomos de los mitos
+| **Tomo/Autor** | **Descripción** | **MCI/MCC** | **MC** | **COR** | **Estudio** | **Hechizos** |
+|---|---|:-:|:-:|:-:|---|---|
+| **Confesiones de Clithaunus, el Monje Loco**</br>*En latín, escrito por Clithanus, 400 (1674)* | Una reinterpretación del material que Clithanus extrajo de su lectura del Necronomicón. Contiene un extenso tratado sobre símbolos protectores y la semilla de Cthulhu. Se conservan varias copias en el Museo Field de Chicago,el Museo Británico y el Seminario de la Unión Teológica de Manhattan. | +3%/+6% | 27% | 2D6 | 29 semanas | Contactar con las blasfemias de los
+océanos (Contactar con una semilla estelar de Cthulhu),
+Protección, Signo del maestro (Símbolo arcano).|
 
 # Tabla de dinero y propiedades
 # Tabla del nivel de vida
