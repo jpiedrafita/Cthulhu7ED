@@ -22,7 +22,13 @@
 - [Magia](#magia)
   - [Tomos de los mitos principales](#tomos-de-los-mitos-principales)
   - [Tabla de tomos resumida](#tabla-de-tomos-resumida)
-
+  - [Grimorio](#grimorio)
+  - [Hechizos de portal](#hechizos-de-portal)
+  - [Hechizos de contacto con una criatura](#hechizos-de-contacto-con-criaturas)
+  - [hechizos de convocación](#hechizos-de-convocación)
+  - [Hechizos de contacto con un dios](#hechizos-de-contacto-con-un-dios)
+  - [Hechizos de llamada/expulsión de un dios](#hechizos-de-llamadaexpulsión-de-un-dios)
+]
 
 
 # Personajes
@@ -113,7 +119,7 @@
 |**ABOGADO**  |Buscar Libros, Conrabilidad, Derecho, Psicología, dos habilidades interpersonales (Charlatanería, Encanto, Intimidar o Persuasión) y otras dos habili dades cualesquiera.|30-80|EDUx4|
 |**AGENTE DE POLICÍA**|Armas de fuego, Combatir (Pelea), Derecho, Descubrir, Primeros auxilios, Psicología, una habilidad interpersonal (Charlatanería, Encanto, Intimidar o Persuasión) y una de las sigui entes como espec ialidad personal: Conducir automóvil o Equitación.| 9-30|EDUx2  + DESx2 o FUEx2|
 |**ANTICUARIO** *Lovecraftiana*|Arte/Artesanía (cualquiera), Buscar libros, Descubrir, Historia, Otras lenguas, Tasación , una habilidad interpersonal (Charlatanería, Encanto, Intimidar o Persuasión) y una habilidad cualquiera.|30-70|EDUx4|
-|**ARTISTA**|Arte/Artesanía (cualquiera), Descubrir, Historia o naturaleza, Otras lenguas, Psicología, una habilidad interpersonal (Charlatanería, Encanto, Intimidar o Persuasión) y otras dos habilidades cualesquiera.|9-50|EDUx2 + PODx 2 o DESx2|
+|**ARTISTA**|Arte/Artesanía (cualquiera), Descubrir, Historia o naturaleza, Otras lenguas, Psicología, una habilidad interpersonal (Charlatanería, Encanto, Intimidar o Persuasión) y otras dos habilidades cualesquiera.|9-50|EDUx2 + PODx2 o DESx2|
 |**ATLETA PROFESIONAL**|Combatir (Pelea), Equitación , Lanzar, Nadar, Saltar, Trepar, una habilidad interpersonal (Charlatanería, Encanto, Intimidar o Persuasión) y una habilidad cualquiera.|9-70|EDUx2 + DESx2 o FUEx2|
 |**BIBLIOTECARIO** *Lovecraftiana*| Buscar libros, Contabilidad, Lengua propia, Otraslenguas y otras cuatro habilidades como especialidades personales o lecturas especializadas.|9-35|EDUx4|
 |**CLÉRIGO**|Buscar libros, Contabilidad , Escuchar, Historia, Otras lenguas, Psicología, una habilidad interpersonal (Charlatanería, Encanto,Imimidar o Persuasión) y una habilidad cualquiera.|9-60|EDUx4|
@@ -699,6 +705,206 @@ graph TD
 |Visiones de Yaddith| inglés| 1927|Ariel Prescott|1|1D4|1|3|12|
 |Von denen Verdammten |alemán (reimpresión)| 1907|Edith Brendall|10|1D6|1|4|15|
 |Von denen Verdammten Oder| alemán||Karaj Heinz Vogel|24|2D6|4|8|36|
+
+## Grimorio
+|**Nombre**|**Coste**|**Tiempo**|**Alcance**|**Efecto**|
+|----------|:-------:|:--------:|:---------:|----------|
+|**Ajar un miembro**|8 PM </br> 1D6 COR|Instantáneo|10m|Tirada enfrentada de POD.</br> 1D8 daño, 2D10 CON, 1D4/1D8 COR.|
+|**Aliento de las profundidades**|8 PM </br> 1D6 COR|1 asalto|Línea visual|Tirada enfrentada de POD.</br>Ahogamiento 1D8 daño/asalto hasta tirada Difícil CON.|
+|**Atormentar**|2 PM </br> 1 COR |1 asalto|3m|Tirada enfrentada de POD.</br>Ceguera durante 1D6 asaltos y -1/1D6+1 COR.</br>Recuperación completa en 3D10 minutos.
+|**Bendecir Hoja**|5 POD</br> 1D4 COR| 1 hora||Crea un arma capaz de dañar o matar a entidades que no resultan afectadas por las armas materiales.|
+|**Canción de Hastur**|1D4 PM/asalto</br> 1D4 COR/asalto|3 asaltos|Línea visual|Tirada enfrentada de POD.</br> 1D6 daño/asalto, 3D10 APA/2 asaltos asaltos, 3D10 CON/4 asaltos, muerte PV = 0.|
+|**Cántico de Thoth**|10 PM</br> 1D4 COR|30 minutos||1 dado de bonificación en tiradas de conocimmiento.|
+|**Consunción**|1 PM por PV daño </br> (1/2 PM) COR|Instantáneo|Línea visual|Estallido de energía que consume la carne 1 daño por PM.|
+|**Crear barrera de Naach-Tith**|PM variable</br> 1D10 COR|1 minuto||Crea una barrera esférica de 100m de diámetro y 3D10 FUE/PM. Se peude superar con una tirada enfrentada de FUE. Una bala penetra y destruye la barrera si el daño es > 1/5 FUE.|
+|**Crear niebla de R'lyey**|2 PM|Instantáneo||Crea una niebla de 3x3x5m con el eje más largo en la dirección en que mira el hechicero y dura 1D4+4 asaltos.|
+|**Crear Zombi**|16 PM</br> 1D6 COR|1 semana||Crea un zombi capaz de obedecer órdenes sencillas. Continuará descomponiéndose.|
+|**Cruz ansada de Prinn**|25 POD</br> 1D6 COR| 20 - (1/2 INT) días||Crea una cruz para desterrar criaturas.|
+|**Descomposición verde**|10 POD</br> 15 PM</br>2D8 COR|1 día||Transforma uan persona en moho verde superando una tirada enfrentada de POD. La víctima se pudre durante 6 días, al sexto se pierden las facultades mentales y el movimiento es imposible. La única cura es matar al hechicero|
+|**destierro de Yde Etad**|1D4+3 PM/ejecutante</br> 1D4 COR|variable (1 hora min.)||Destierro permentente e irrevocable a una criatura intligente transdimensional, humana o similar, que actúe por voluntad propia.|
+|**Dividir el ka**| POD</br> 10 PM</br> 2D10 COR|1 día por órgano||Transfiere su esencia a un órgano que extirpa para esconderlo, excepto el cerebro.|
+|**Dominar**|1 PM</br> 1 COR|Instantáneo|10 metros|Si se supera una tirada enfrentada de POD, la vícitma debe cumplir una orden concreta.|
+|**Encantar cuchillo**|POD variable, 1D4 COR|2 horas||Requiere sacrificar un animal de TAM > 20. +1%/1 POD al convocar bagabundo dimensional. +10% al brasero si se usa en encantar brasero.|
+|**Encantar daga sacrifical**|30 POD|1 semana||Requiere sacrificar un ser vivo de POD > 100. Los sacrificios en presencia de Nyarlathotep permiten transferir el POD de la víctima al hechicero u otro objeto.|
+|**Encantar flauta**|POD variable</br> 1D6 COR|3+ horas||Requiere una flauta de +90% de metal. Por cada 5 POD sacrificado requiere un sacrificio de un animal pequeño y otrga +2% a convocar/atar un servidor de OTros Dioses u otros hechizos que requieran una flauta.|
+|**Encantar libro**|POD variable</br> 1D4 COR|3 días||El hechizo de vampiro estelar debe grabarse con tinta que contenga icor de un vampiro estelar. +2%/1POD a convocar/atar vampiro estelar.|
+|**Encantar silbato**|POD variable, 1D4 COR|1 día||+2%/1 POD a convocar atar byankhee.|
+|**Espejo de Tarkhum Atep**|5 PM</br> 1 COR| 1/2 día||Se proyecta en un espejo cercano a la víctima y permite susurrar palabras y frases cortas.|
+|**Explosión mental**|10 PM</br> 1D3 COR|Instantáneo|Línea visual|Superar una tirada enfrentada de POD produce una gresión mental 5 COR y locura temporal.|
+|**Fabricar hidromiel espacial**|20 PM/dosis </br> PM y COR según distancia|Varios días||Fabrica hidromiel espacial que permite viajar por el espacio gastando 1 PM y 1 COR por 100 años luz, sumando 1 PM y 1 COR para x10 distancia.|
+|**Fundir carne**|Carne muerta: 1 PM/15 TAM, 1D4 COR.</br>Carne viva: 5PM /15 TAM, 1D6 COR.|5 asaltos|Línea visual|Hace arder la carne. 1D4 daño/15TAM afectados. Puede producir ceguera o sordera si se apunta a la cara. 1/1D6 COR.|
+|**Garra de Nyogtha**| 1 + (PM = 2 x daño/asalto)</br> 1D 20COR | Instantáneo|Distancia de conversación|Tirada enfrentada de POD cada asalto.</br>|Una mano/tentáculo invisible aprisiona el corazón causando 1D3 daño/asalto y parálisis. El pecho explota si PV = 0.|
+|**Hechizo mortal**| 24 PM</br> 3D10 COR | 1D3 asaltos |10 metros |Tirada enfrentada de POD.</br>La víctima estalla en llamas cusando 1D3 año el primer asalto, 1D6 el seguno, 1D10 el tercero y posteriores. Todos los testigos pierden 1/1D6 COR.|
+|**Imitar apariencia**| 5 POD</br> 10 PM/6h</br> 1D20 COR| Varios días||Se adopta la pariencia de una persona muerta reciente y que haya visto (1D3 minutos), a voluntad de forma indefinida (excepto la sombra proyectada). La diferencia de TAM debe ser menor de 15. Requiere devorar a la víctima. Sufrir daño fuerza volver a la forma original (20s). |
+|**Inducir el pánico**|12 PM</br> 1D6 COR|Instantáno|Línea visual|Provoca terror en la víctima 0/1D6 COR y es forzada a huír.|
+|**Inmovilizar a una víctima**|2 PM</br>1D6 COR|1 asalto|Distania de conversación|Tirada enfrentada de POD después de hablar tranquilamente durante un asalto. Paraliza e insensibiliza a la víctima hasta que es atacada o similar.|
+|**Intercambio de mente**|1D6 + 10 PM</br>1D3 COR|1 hora||Intercambia mente con la víctima. La primera vez pierde 1D3 COR y PM = 1/5 POD de la víctima. Cada vez posterior cuesta 1 PM menos hasta un mínimo de 1.|
+|**Mal de ojo**|10 PM</br>1D4 COR|1 asalto|Línea visual| Reduce la probabilida de SUE a la mitad, un dado de penalización en tiradas de características, encasquillamiento con +75, mitad de probabilidad en convocación/atadura. Dura hasta el siguiente amanecer o hacer sangrar al hechicero.|
+|**Maldición de Azathoth**|4 PM</br>1D6 COR|1 asalto||El objetivo pierde 3D6 POD si pierde una tirada enfrentada de POD.|
+|**Maldición del pellejo pútrido**|5 PM</br>10 COR|1 hora||Superar una tirada enfrentada de INT hace que la víctima sienta que se pudre perdiendo 1D10 COR, se desmaye y desperte indemne al cabo de unos minutos. Un dado de bonificación al ejecutar el hechizo de noche y la víctima duerme. Debe conocer a la víctima y tener un efecto personal suyo. La víctima puede asimilar los sueños y recuperar la mitad de la COR superando una tirada de psicología.|
+|**Nublar la memoria**|1D6 PM</br>1D2 COR|Instantáneo|Línea visual|Superar una trirada enfrentada de POD hace que la víctima olvide un suceso concreto.|
+|**Ola de olvido**|30 PM</br>1D8 COR|1 hora|Línea visual|Crea una ola de 85m3 (debe haber agua salada) capaz de hacer zozobrar una corbeta y engullir para siempre a las personas. Varias personas conocedoras del hechizo pueden aportar varios PM (pierden COR) o 1 si no lo conocen. 30 PM crean una ola de 3m de largo, 3m grosor y 9m de alto, añadiendo 30cm por cada PM adicional.|
+|**Palabras poderosas**|3 PM/10min</br>1D6 COR|+10 minutos||Superar una tirada de persuasión/encanto la audiencia creera todo durande 1D3 días. |
+|**Polvo de Ibn-Ghazi**|1 PM/dosis|1 asalto|Cerca|Espolvorear sobre algo invisible lo revela durante 10 latidos del corazón. Lugares encantados para una llamada, aura de un portal, criaturas invisbles.|
+|**Polvo de Suleiman**|10 PM/3 dosis|1 asalto||Polvo verdoso que causa daño a los seres antinaturales 1D20/dosis. Requiere el polvo de una momia egipcia de +2.000 años (3 dosis max.). Dañará a un vagabundo dimensional o a un Mi-Go, pero no a un shoggoth o un profundo.|
+|**Protección**| 1 PM / Piedra | 5 asaltos ||Pueden disponerse piedras a 1 m de distancia y el hechicero sabrá en cualquier momento si se han movido.|
+|**Protección corporal**|PM variables</br>1D4 COR|5 asaltos||Protecciñon contra ataques físicos. 1D6 de armadura por PM. Cada golpe consume la protección, que dura 24h como máximo.|
+|**Provocar/Curar la ceguera**|8 PM</br>2D6 COR al causar ceguera|1 día||Requiere tirada enfrentada de POD. Causa ceguera como un derrame cerebral y la cura si el nervio óptico no está dañado.|
+|**Puño de Yog-Sothoth**|PM variables</br>1D6 COR|Instantáneo|10 metros </br>+10m / 1 PM adicional|Una fuerza de 2D10 FUE imacta al objetivo. El objetivo queda inconsciente si falla una tirada enfrentada de CON contra la FUE del hechizo. El objetivo es empujado (TAM - FUE)/3|
+|**Resurrección**|3 PM</br>1D10 COR|1 o 2 asaltos||Reduce un cadáver completo sus compuestos y sales fundamentales o realiza el proceso inverso. Provoca 1D20 COR a la víctima. Requiere tirada enfrentada de POD convertir a la víctima en polvo. Si faltan sales puede construirse un horror parcial.|
+|**Signo tojo de Shudde M'ell**|3 PM/asalto</br>1D8 COR</br>1 PV/asalto|1 asalto|10m - 30m|Causa una muerte horrible a una o varias personas. 1D3 daño por asalto a cada persona que esté dentro de 10m de alcance y 1 daño por asalto entre 10m y 30m. El hechicero pierde 1 PV/asalto.|
+|**Signo de Voorish**|1 PM</br>1 COR|1 asalto||Mejora levemente la ejecución de otros hechizos y otorga protección temporal contra criaturas de los mitos.|
+|**Símbolo arcano**| 10 POD | 1 hora ||Permite crear un símbolo en un objeto. Bloquea portales a los servidores de los Primigenios y los Dioses Exteriores, así como a sus propios amos. Inútil como defensa personal.|
+|**Sugestión mental**| PM y COR variables | 3 asaltos |Línea visual|Requiere tirada enfrentada de POD. Hace obedecer a cualquier criatura con sangre humana. Las órdenes más extremas requieren una segunda tirada. 5 PM y 1D3 COR para sugerencias ordinarias e inocuas, 10 PM y 2D3 COR parasugerencias más arriesgadas (daño a otros), 15 PM y 3D3 COR para sugerencias peligrosas y autodestructivas. Contra un investigador dura 1 asalto por cada punto de INT del hechicero. Si la INT del hechicero es menor requiere tirada enfrentada de POD cada 10 asaltos.|
+|**Transformación corporal de Gorgoroth**|5 POD</br>6 + PM</br> 2D6 COR|1D6+4 minutos||El hechicero puede adoptar cualquier forma física (incluso inanimada) aunque sigue siendo de carne y hueso, y tendrá la movilidad de la nueva forma. FUE, CON, DES, INT y POD no cambian. Gasta en presencia de Nyarlathotep 6 PM y uno adicional por cada 5 TAM que gane o pierda. No se puede ejecutar sobre otro.|
+|**Transferencia de mente**|10 PM</br>1D10 COR |+5 asaltos||Requiere tirada enfrentada de POD. La víctima pierde 1D20 COR. Si el hechicero fracasa debe invertir otros 10 PM o su alma se disipa para la eternidad. Al tener éxito se ocupa el nuevo cuerto y la mente del anfitrión queda atrapada. |
+
+
+## Hechizos de contacto con criaturas
+Los hechizos de contacto abren un canal de comunicación (1D100 horas) sin dar el control de la situación al hechicero, tienen un coste de 1D3 COR + la pérdida de la visión de la entidad y un tiempo de ejecución de 1D6+4 asaltos.
+|**Entidad**|**Coste**|**Notas**|
+|-----------|:-------:|---------|
+|**Contactar Chthonian**|5 PM|Debe ejecutarse en un lugar con terremotos.|
+|**Contactar Profundo**|3 PM|Debe ejecutarse en la orilla del océano o mar.|
+|**Contactar Antiguo**|3 PM|Es más probable que funcione en la parte sur de la dorsal medio-atlantica y fosas geológicas cercanas a la Antártida.|
+|**Contactar Pólipo volante**|9 PM|Debe haber cerca una ciudad subterránea (la mayor está en el desierto occidental australiano).|
+|**Contactar Semilla informe**|3 PM|Es más probable que funcione cerca de los templos en los que la estatua de Tsathoggua continúa sobre el altar o en las inmediaciones de la grieta abisal situada en N'Kai, cerca de Binger, Oklahoma. Es posible que otros lugares del oeste y el medio oeste norteamericano ofrezcan también vías de acceso y salida. Según se dice, hay una de tales cavernas en las inmediaciones de Dunwich, Massachusetts.|
+|**Contactar Gul**|5 PM|En las inmediaciones de cementerios.
+|**Contactar Gnoph-Keh**|5 PM|Es más probable que funcione en Groenlandia y yermos helados del polo norte|
+|**Contactar Perro de Tíndalos**|7 PM|Su única motivación es el hambre.|
+|**Contactar Mi-Go**|8 PM|Debe ejecutarse al pie o cima de una montaña donde haya una colonia (Apalaches, Andes, Himalaya, África central).|
+|**Contactar Ser rata**|2 PM|Cerca de algún lugar infectado (Yotkshire, Massachusetts)|
+|**Contactar Habitante de la arena**|3 PM|En un desierto adecuado (Sahara, suroeste de EE.UU., Arabia Saudí, desierto central australiano).|
+|**Contactar Servidor de los Otros Dioses**|14 PM|Superar tirada de SUE. El servidor espera un sacrificio de sangre adecuado o devorará al hechicero. Si se superar una tirada de Persuasión el servidor responderá una pregunta respetuosa sobre el poder de Azazoth o los dioses exteriores. Transmite un hechizo con éxito Extremo (-1D8 COR, 1D10 asaltos dedesorientación). Puede irse o quedarse y tocar la flauta.|
+|**Contactar Espíritus de los muertos**|3 PM o +|Superar tirada de PMx5. Se realiza en una carpa con jarras de agua. Las voces de los muertos se pueden escuchar si se tiene éxito.|
+|**Contactar Semilla Estelar de Cthulhu**|6 PM|En la orilla del mar. Funciona bien en la Polinesia, en la costa de Massachusetts y en las aguas de la ciudad sumergida de R'leyh.|
+|**Contactar Yithiano**|4 PM| Debe haber un miembro de la Gran Raza ocupando un cuerpo a menos de 150Km.|
+
+## Hechizos de portal
+
+* Creación de portales y coste de viaje.
+
+
+|**POD**|**PM</br>(viaje)**|**Distancia km/años luz**|
+|:-----:|:----------------:|:-----------------------:|
+|5|1|150 Km|
+|10|2|1.500 Km|
+|15|3|15.000 Km|
+|20|4|150.000 Km|
+|25|5|1.500.000 Km|
+|30|6|15.000.000 Km|
+|35|7|150.000.000 Km|
+|40|8|1.500.000.000 Km|
+|45|9|15.000.000.000 Km|
+|50|10|150.000.000.000 Km|
+|55|11|1.500.000.000.000 Km|
+|60|12|1/2 año luz|
+|65|13|5 años luz|
+|70|14|50 años luz|
+|75|15|500 años luz|
+|80|16|5.000 años luz|
+|85|17|50.000 años luz|
+|90|18|500.000 años luz|
+|95|19|5.000.000 años luz|
+|100|20|50.000.000 años luz|
+
+* Ubicación de portales y distancia.
+
+|**Distancia desde Boston**|**Lugar aprox. más alejado en Km/años luz**|**POD (PM) necesarios**|
+|:---:|:---:|:---:|
+| Providence (Massachusetts) | 60 Km | 5(1) |
+| Peoria (Illinois) | 1.500 Km | 10(2) |
+| Portland (Australia) | 15.000 Km | 15(3) |
+| Espacio vacío | 150.000 Km | 20(4) |
+| Luna | 384.000 Km | 25(5) |
+| Mercurio | 210.000.000 Km | 40(8) |
+| Venus | 240.000.000 Km | 40(8) |
+| Marte | 375.000.000 Km | 40(8) |
+| Júpiter | 900.000.000 Km | 40(8) |
+| Saturno | 1.500.000.000 Km | 40(8) |
+| Urano | 2.850.000.000 Km | 45(9) |
+| Neptuno | 4.200.000.000 Km | 45(9) |
+| Yuggoth (Plutón) | 6.900.000.000 Km | 45(9) |
+| Nube de Oort | 13.500.000.000 Km | 45(9) |
+| Próxima Centauri | 4.3 años luz | 65(13) |
+| Sirio | 8.3 años luz | 70(14) |
+| Formalhaut | ~ 22 años luz | 70(14) |
+| Vega | ~ 26 años luz | 70(14) |
+| Aldebarán |~ 50 años luz | 70(14) |
+| Celeno | ~ 400 años luz | 75(15) |
+| El otro extremo de la vía láctea | ~ 70.000 años luz | 90(18)|
+| Galaxia M31 | ~2.800.000.000 años luz | 95(19) |
+| Azathoth | ~ 10.000.000.000 años luz | 105(23) |
+| 1 quásar de distancia | ~15.000.000.000 años luz | 105(23) |
+| 1 ua | ~ 150.000.000 Km | 37(7) |
+| 1 año luz | ~9.460.730.472.580 Km | 60(12) |
+| 1 parsec | 3.26 años luz | 65(13) |
+
+
+
+|**Hechizo**|**Coste**|**Tiempo**|**Notas**|
+|-----------|:-------:|----------|---------|
+|**Caja portal**|1 POD<br>PM y COR variables|5 horas|Establece un portal entre dos cajas. Al crear las cajas se sacrifica 5POD y la mitad de PM cada día hasta el TAMx20 de ambas cajas. Se pierde 1 COR por semana.|
+|**Encontrar portal**|1 PM</br>1D3 COR|20 - 60 min| Revela cualquier portal en el campo de visión.|
+|**Portal temporal**| POD variable |1 hora por cada 1 POD invertido|Crea un portal hacia el futuro o el pasado similar al portal normal pero sustituyendo distancia en Km por años. El intervalo entre el "ahora" y el destino es constante.|
+|**Ver portal**|PM y COR variable|3 asaltos|Permite ver lo que hay al otro lado de un portal sin tener que cruzarlo. El hechizo cuesta 1 PM y 1 COR más la décima parte redondendo hacia arriba del coste de cruzar.|
+
+## Hechizos de convocación
+Cuesta 1D4 COR, 1PM por cada 10% de probabilidad de éxito, se tarda 5 minutos por PM y se falla con 96-100. La criatura aparece cen 2D10 minutos. La criatura puede aparecer atada o solicitar una tirada enfrentada de POD (o ataca). Tras la atadura está obligada a cumplor una orden.
+
+|**Entidad**|**Notas**|
+|-----------|---------|
+|**Convocar Servidor de los Otros Dioses**| Cuesta x3 PM y 3D4 COR. Requiere una flauta, +2%/1 POD si la flauta está encantada.|
+|**Convocar Ángel descarnado de la noche**|Solo se puede ejecutar las noches de luna nueva con una piedra adornada con el símbolo arcano.|
+|**Convocar Byankhee**|Solo en las noches que Aldebarán es visible. Requiere un silbato, +2%/1 POD si el silbato está encantado.|
+|**Convocar Horrendo cazador**|Solo durante la noche y al aire libre. Si no hay un sacrificio preparado el cazador atrapará al hechicero y huirá.|
+|**Convocar Retoño oscuro**|Requiere sacrificio de un animal TAM > 40, al aire libre, en un bosque y con luna llena.|
+|**Convocar Vagabundo dimensional**|Requiere un cuchillo de un material puro, +2%/1 POD si el cuchillo está encantado.|
+|**Convocar Vampiro estelar**|Requiere un libro con las palabras del hechizo, +2%/1 POD si el libro está encantado. Se escucha un sonido parecido a un susurro cuando está cerca y la criatura es invisible, salvo cuando sus venas se llenan de sangre.|
+|**Convocar Vampiro de fuego**|Desciende como una estrella fugaz. Requiere una pira o fuente de llamas. Solo se puede ejecutar de conche con la estrella Formalhaut por encima del horizonte (latitudes moderadamente septentrionales, con las mejores fechas entre septiembre y noviembre).
+
+## Atadura independiente
+Cuesta 1 COR, dura 1 asalto y requiere una tirada enfrentada de POD. Invertir PM = 1/5 POD de la criatura otorga 1 dado de bonificación.
+|**Entidad**|**Notas**|
+|-----------|---------|
+|**Atar Ángel descarnado de la noche**|Una piedra adornada con el símbolo arcano otorga 1 dado de bonificación.|
+|**Atar Byankhee**|Si el silbato está encantado otorga un dado de bonificación.|
+|**Atar Horrendo cazador**|Requiere la sangre de un ser sintiente o el cazador se lleva al hechicero.|
+|**Atar Atar a un retoño oscuro**|Un cuchillo encantado otorga un dado de bonificación.|
+|**Atar Servidor de los Otros Dioses**|Una flauta encantada otorga un dado de bonificación.|
+|**Atar Vagabundo dimensional**|Una daga encantada de un metal puro otorga un dado  de bonificación. Si el vagabundo está a la luz del sol se obtiene un segundo dado de bonificación.|
+|**Atar Vampiro estelar**|Un libro encantado otorga un dado de bonificación.|
+|**Atar Vampiro de fuego**|Si el hechicero permanece dentro de una pira se obtiene un dado de bonificación.|
+
+## Hechizos de contacto con un dios
+Los hechizos de contacto abren un canal de comunicación (1D100 horas) sin que haya una manifestación física del dios, tienen un coste de 5 POD, 1D6 COR + la pérdida de la visión del dios y un tiempo de ejecución de 1D6+4 asaltos. La probabilidad es 1/2 POD del hechicero.
+
+|**Entidad**|**Notas**|
+|-----------|---------|
+|**Contactar Chaugnar Faugn**|El primigenio envía visiones o pesadillas|
+|**Contactar Cthulhu**|Responde durante la noche mientras duerme el hechiceros. Informa con sueños y pesadillas|
+|**Contactar Eihort**|Require 1 PM. Aparece en sueños si está lejos, o en persona si está cerca. Extrae 5 POD a cambio de transferir este hechizo.|
+|**Contactar Nodens**|Debe ejecutarse en un lugar remoto. Si responde lo hará mcuando el hechicero esté solo en un lugar inaccesible.|
+|**Contactar Nyarlathotep**|Solo se manifiesta en reuniones de devotos o cuando se unge un nuevo sacerdote de los Dioses Exteriores.|
+|**Contactar Tsathoggua**|Aparece de forma espirirual (pérdida normal de COR) y cuando el hechicero está a solas.|
+|**Contactar Y'Golonac**|Intenta convertir al invocante en uno de sus adoradores. Si cree que no es apropiado lo matará y devorará su alma. Si cree que es digno poseera a uno de sus amigos e intentará tentar al hechicero.|
+
+## Hechizos de llamada/expulsión de un dios
+Los hechizos de llamada traen al avatar de un dios ante el hehizo (reservado a los sacerdotes). Cuesta 1 PM + 1 PM por persona y 1D10 COR al ejecutante. Si los participantes conocen el hechizo pueden aportar más PM. La probabilidad de éxito es el número de PM inverido (100 fracaso)y tarda 1-100 minutos. Pérdida de COR habitual si la deidad se manifiesta.
+
+Cada hechizo de expulsión es diferente (hay que conocerlo) y requiere 1PM/25POD (redondeando abajo) de la deidad para un 5% inicial más un 50% por 10PM o más, y 5% por cada PM extra.
+
+
+|**Entidad**|**Notas**|
+|-----------|---------|
+|**Lamar a Azathoth**|Solo se puede ejecutar en exteriores durante la noche y tiene el potencial de destruir el planeta entero.|
+|**Llamar a Cthugha**|Cobra forma con la explosión de una llama sostenida (vela). Solo se puede ejecutar noches en las que la estrella Fomalhaut es visib le en el horizonte (hemisferio norte de septiembre a noviembre).|
+|**Llamar a Hastur**|Requiere nueve bloques de piedra (+9m3) dispeustos en V. Solo se puede ejecutar noches en las que la estrella Aldebarán es visible (octubre a marzo aprox.). Cada byakhee presente añade 10% a la probabilidad de éxito. Si los monolitos están encantados con 5 POD cada uno, añadirá 30% a la probabilidad de Convocar/Atar a un byakhee.|
+|**Llamar a Ithaqua**|La presencia se percibe como un torbellino helado. Se debe ejecutar sobre un montículo de nieve de 3m en las regiones más septentrionales del planeta, pico nevado o polo sur.|
+|**Llamar a Nyogtha**|Debe ejecutarse en la boca de una caverna. Nyogtha otorga dones al hechicero si es digno.|
+|**Llamar a Shub-Niggurath**|Se debe ejecutar en un altar situado en una zona verde y húmeda a cielo descubierto, de noche y luna nueva. Requiere sangre fresca y añade 20% si se scrifican víctimas equivalentes a +200 TAM. Cada retoño oscuro presente añade 10%.|
+|**Llamar a Yog-Sothon**|Requiere una torre de piedra (+10m) con cielo despejado y a campo abierto. Requiere un sacrificio humano (puede ser una simple insinuación). Puede encantarse la torre proporcionando 1% por cada punto de POD.|
+
 
 # Tabla de dinero y propiedades
 # Tabla del nivel de vida
