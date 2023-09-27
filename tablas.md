@@ -28,7 +28,8 @@
   - [hechizos de convocación](#hechizos-de-convocación)
   - [Hechizos de contacto con un dios](#hechizos-de-contacto-con-un-dios)
   - [Hechizos de llamada/expulsión de un dios](#hechizos-de-llamadaexpulsión-de-un-dios)
-]
+- [Criaturas](#criaturas)
+  - [Pronunciación de los nombres](#pronunciación-de-los-nombres)
 
 
 # Personajes
@@ -905,6 +906,57 @@ Cada hechizo de expulsión es diferente (hay que conocerlo) y requiere 1PM/25POD
 |**Llamar a Shub-Niggurath**|Se debe ejecutar en un altar situado en una zona verde y húmeda a cielo descubierto, de noche y luna nueva. Requiere sangre fresca y añade 20% si se scrifican víctimas equivalentes a +200 TAM. Cada retoño oscuro presente añade 10%.|
 |**Llamar a Yog-Sothon**|Requiere una torre de piedra (+10m) con cielo despejado y a campo abierto. Requiere un sacrificio humano (puede ser una simple insinuación). Puede encantarse la torre proporcionando 1% por cada punto de POD.|
 
+# Criaturas
+## Pronunciación de los nombres
+|Entidad|Pronunciación|
+|:-----:|:-----------:|
+|Abhoth|ÁB-oz|
+|Atlach-Nacha|ÁT-lak NÁ-cha|
+|Azazoth|a-za-ZÓZ|
+|Bast|BAST|
+|Bokrug|BÓ-krug|
+|Byakhee|BIÁ-ki|
+|Chaugnar Faugn|CHÁG-nar FAN|
+|Chthonian|ka-ZO-nian|
+|Cthugha|ka-ZU-ga|
+|Cthulhu|ka-ZU-lu|
+|Cyaegha|cia-E-ga|
+|Dagón|da-GÓN|
+|Daoloth|DAO-loz|
+|Dhole|DOL|
+|Eihort|Ei-jort|
+|Ghast|GAST|
+|Ghatanothoa|ga-ta-no-ZO-a|
+|Gla'aki|fla-Á-ki|
+|Gnoph-Keh|nof-KÉ|
+|Hastur|as-TUR|
+|Hidra|I-dra|
+|Hipnos|IP-nos|
+|Ithaqua|i-ZA-kua|
+|Lloigor|LLÓI-gor|
+|Mi-Go|MI-go|
+|Nodens|NO-dens|
+|Nyarlathotep|niar-la-zo-TEP|
+|Nyogtha|ni-OG-ta|
+|Quachil Uttaus|KUá-chil u-TAUS|
+|Rhan-Tegoth|RAN ti-GOZ|
+|Shaggai|sha-GAI|
+|Shantak|SHÁN-tak|
+|Shoggoth|sho-GOZ|
+|Shub-Niggurath|SHUB ni-gu-RAZ|
+|Shudde M'ell|SHU-de MEL|
+|Tcho-Tcho|CHO-cho|
+|Tindalos|TÍN-da-los|
+|Tsathoggua|tsa-ZO-gua|
+|Tulzscha|TULZ-sha|
+|Ubbo Sathia|U-bo SAZ-Ia|
+|Xiclotl|shi-KLÓ-tel|
+|Y'golonac|y go-lo-NAK|
+|Yibb-Tstll|YB TIS-tel|
+|Yig|YIG|
+|Yog-Sothoth|YOG so-ZOZ|
+|Yuggoth|yu-GOZ|
+|Zhar|ZAR|
 
 # Tabla de dinero y propiedades
 # Tabla del nivel de vida
