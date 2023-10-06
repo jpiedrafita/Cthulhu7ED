@@ -3,6 +3,8 @@
 - [Personajes](#personajes)
   - [Trasfondo de personajes](#trasfondo-de-personajes)
   - [Profesiones comunes](#profesiones-comunes)
+  - [Dinero y propiedades](#dinero-y-propiedades)
+  - [Nivel de vida](#nivel-de-vida)
 - [combate](#combate)
   - [Diagrama de combate](#diagrama-de-combate)
   - [Modificadores para armas de fuego](#modificadores-para-armas-de-fuego)
@@ -147,6 +149,40 @@
 |**VAGABUNDO**| Escuchar, Orienrarse, Saltar, Sigilo, Trepar, una habilidad inrerpersonal (Charlatanria, Encanto, Intimidar o Persuasión) y dos habilidades cualesquiera.|0-5|EDUx2 + APAx2 o DESx2 o FUEx2|
 
 #**TODO**: profesiones del manual del investigador 
+
+## Dinero y propiedades
+
+**Años 20**
+| **Crédito** | **CR** | **Dinero** | **Propiedades** | **Nivel de gasto** |
+|---------|:--:|:------:|:-----------:|---------------:|
+|Indigente|0|0,50 $|Ninguna|0,50$|
+|Pobre|1-9|CR x 1 (1$ - 9$)|CR x 10 (10$-90$)|2$|
+|Clase media|10-49|CR x 2 (20$ - 98$)|CR x 50 (500$-2.450$)|10$|
+|Adinerado|50-89|CR x 5 (250$ - 445$)|CR x 500 (25.000$ - 44.500$)| 50$|
+|Rico|90-98|CR x 20 (1.800$ - 1.960$)|CR x 2.000 (180.000$ - 196.000$)|250$|
+|Inmensamente rico|99|50.000$|+5M$|5.000$|
+
+**Actual**
+| **Crédito** | **CR** | **Dinero** | **Propiedades** | **Nivel de gasto** |
+|---------|:--:|:------:|:-----------:|---------------:|
+|Indigente|0|10 $|Ninguna|10$|
+|Pobre|1-9|CR x 20 (20$ - 180$)|CR x 200 (200$-1.800$)|10$|
+|Clase media|10-49|CR x 40 (400$ - 1.960$)|CR x 1.000 (10.000$-49.000$)|2000$|
+|Adinerado|50-89|CR x 100 (5.000$ - 8.900$)|CR x 10.000 (500.000$ - 890.000$)| 1.000$|
+|Rico|90-98|CR x 400 (36.000$ - 39.200$)|CR x 40.000 (3,6M$ - 3,92M$)|5.000$|
+|Inmensamente rico|99|1M$|100M$|100.000$|
+
+## Nivel de vida
+
+| **Nivel de vida** |
+| -------------------- |
+| CR 0: INDIGENTE</br>Se considera indigente a aquellas personas que están por debajo del límite de la pobreza.</br>**Alojamiento**: Una persona así está viviendo en la calle.</br>**Transporte**: Caminando, haciendo dedo o de polizón en un tren o un barco.            |
+| CR 1-9: POBRE</br>Solo pueden permitirse la mínima expresión de un tejado sobre sus cabezas y al menos una exigua comida al día.</br>**Alojamiento**: Limitado a viviendas de alquiler baratas u hoteles de mala muerte.</br>**Transporte**: Transporte público del tipo más económico. Cualquier medio de transporte en propiedad será barato y poco fiable.               |
+| CR 10-49: CLASE MEDIA</br>Un nivel de vida razonable, tres comidas al día y cun capricho de vez en cuando.</br>**Alojamiento**: Una casa o apartamento correntes, ya sea alquilado o en propiedad. Se espera que se pueda alojar en hoteles de un precio moderado.</br>**Transporte**: Puede utilizar los medios de transporte normales, pero no viajar en primera clase. En la época actual es probable que esta persona tenga un coche fiable.        |
+| CR 50-89: ADINERADO </br>Este nivel de riqueza permite vivir rodeado de lujo y comodidades.</br>**Alojamiento** una residencia considerable, tal vez con algo de servicio doméstico (mayordomo, ama de llaves, limpiadora, jardinero, etc.). Puede que una segunda residencia en el campo o el extranjero. Estancia en hoteles caros.</br>**Transporte** Primera clase. Esta persona será propietaria de un coche lujoso o equivalente.   |
+|CR +90: RICO </br>Este nivel de riqueza permite vivir rodeado de un gran lujo y comodidades.</br>**Alojamiento**: Una residencia o hacienda lujosa, con abundante servicio doméstico (mayordomo, ama de llaves, limpiadora, jardinero, etc.). Otras residencias en el campo o el extranjero. Alojamiento en los hoteles más lujosos.</br>**Transporte**: Primera clase. En la época actual, esta persona será propietaria de gran cantidad de coches de lujo.</br>No será necesario llevar una contabilidad para el alojamiento, la comida o los gastos de viaje imponderables siempre y cuando el gasto de un investigador se encuentre dentro de los límites de su nivel de vida.|
+| CR 99: INMENSAMENTE RICO</br>Igual que rico, pero el dinero no es una preocupación. Las personas embarcadas en esta categoría se encuentran entre las más ricas del mundo.|
+
 # Combate
 ## Diagrama de combate
 ```mermaid
