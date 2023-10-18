@@ -1,13 +1,13 @@
-[Leyenda](#leyenda)
-[Notas](#notas)
-[Armas cuerpo a cuerpo](#armas-cuerpo-a-cuerpo))
-[Armas cortas](#armas-cortas-i)
-[Fusiles](#fusiles-i)
-[Escopetas](#escopetas)
-[Subfusiles](#subfusilesi)
-[Fusiles de asalto](#fusiles-de-asaltoi)
-[Ametralladoras](#ametralladorasi)
-[Explosivos, armas pesadas, misc.](#explosivos-armas-pesadas-misci)
+- [Leyenda](#leyenda)
+- [Notas](#notas)
+- [Armas cuerpo a cuerpo](#armas-cuerpo-a-cuerpo))
+- [Armas cortas](#armas-cortas-i)
+- [Fusiles](#fusiles-i)
+- [Escopetas](#escopetas)
+- [Subfusiles](#subfusilesi)
+- [Fusiles de asalto](#fusiles-de-asaltoi)
+- [Ametralladoras](#ametralladorasi)
+- [Explosivos, armas pesadas, misc.](#explosivos-armas-pesadas-misci)
 
 
 # Leyenda
